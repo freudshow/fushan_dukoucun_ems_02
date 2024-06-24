@@ -1,0 +1,81 @@
+{
+  "GetDataBase_Pad": {
+    "PeriodicPollingInterval_ms": 50,
+    "ContinueCheckData": 1,
+    "topic_notify_event": 1,
+    "topic_notify_spont": 1,
+    "topic_set_request_soe": 1,
+    "EnableFrozenMode": 0
+  },
+  "GetDataBase_devListCount": 1,
+  "GetDataBase_devlist": [
+    {
+      "devNo": 0,
+      "linkNo": 10,
+      "port": "RS-485-II",
+      "addr": "601000042531",
+      "model": "ADC",
+      "desc": "ADC",
+      "datacount": 8,
+      "appname": "698client",
+      "data": [
+        {
+          "RtdbNo": 243,
+          "Desc": "设备[0]-集中器光伏1_有功功率",
+          "DataType": 1,
+          "ModeName": "LTU",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 244,
+          "Desc": "设备[0]-集中器光伏1_发电量",
+          "DataType": 1,
+          "ModeName": "LTU",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 245,
+          "Desc": "设备[0]-集中器光伏2_有功功率",
+          "DataType": 1,
+          "ModeName": "LTU",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 246,
+          "Desc": "设备[0]-集中器光伏2_发电量",
+          "DataType": 1,
+          "ModeName": "LTU",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 247,
+          "Desc": "设备[0]-集中器光伏3_有功功率",
+          "DataType": 1,
+          "ModeName": "LTU",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 248,
+          "Desc": "设备[0]-集中器光伏3_发电量",
+          "DataType": 1,
+          "ModeName": "LTU",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 249,
+          "Desc": "设备[0]-集中器光伏4_有功功率",
+          "DataType": 1,
+          "ModeName": "LTU",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 250,
+          "Desc": "设备[0]-集中器光伏4_发电量",
+          "DataType": 1,
+          "ModeName": "LTU",
+          "DotNo": 0
+        }
+      ]
+    }
+  ]
+}

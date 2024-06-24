@@ -1,0 +1,691 @@
+{
+  "TcpModeEnable": 0,
+  "ClearData": 1,
+  "SendFramePeriod": 3000,
+  "dataset": [
+    {
+      "DevIndex": "0",
+      "S_link": 3,
+      "S_linkDev": 1,
+      "data": [
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 1,
+          "DataItemCount": 6,
+          "SlaveDevAddr": 2,
+          "ModbusRegAddr": 850,
+          "GetRegCount": 12,
+          "AreaNum": 0,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_Float",
+          "DataTypeEnum": 8,
+          "LowAddr": 850,
+          "HighAddr": 861,
+          "DataFormat": 3,
+          "KeyDec": [
+            "A相网侧电压",
+            "B相网侧电压",
+            "C相网侧电压",
+            "A相网侧电流",
+            "B相网侧电流",
+            "C相网侧电流"
+          ],
+          "KeyMode": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 7,
+          "DataItemCount": 4,
+          "SlaveDevAddr": 2,
+          "ModbusRegAddr": 862,
+          "GetRegCount": 4,
+          "AreaNum": 1,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_s16",
+          "DataTypeEnum": 4,
+          "LowAddr": 862,
+          "HighAddr": 865,
+          "DataFormat": 0,
+          "KeyDec": [
+            "A相IGBT最高温度",
+            "B相IGBT最高温度",
+            "C相IGBT最高温度",
+            "环境温度"
+          ],
+          "KeyMode": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 11,
+          "DataItemCount": 8,
+          "SlaveDevAddr": 2,
+          "ModbusRegAddr": 866,
+          "GetRegCount": 16,
+          "AreaNum": 2,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_Float",
+          "DataTypeEnum": 8,
+          "LowAddr": 866,
+          "HighAddr": 881,
+          "DataFormat": 3,
+          "KeyDec": [
+            "直流正母电压",
+            "直流负母电压",
+            "电池电压",
+            "电池电流",
+            "电池功率",
+            "输出有功总功率",
+            "输出无功总功率",
+            "电网频率"
+          ],
+          "KeyMode": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 19,
+          "DataItemCount": 6,
+          "SlaveDevAddr": 2,
+          "ModbusRegAddr": 900,
+          "GetRegCount": 6,
+          "AreaNum": 3,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 900,
+          "HighAddr": 905,
+          "DataFormat": 0,
+          "KeyDec": [
+            "PCS开关状态",
+            "PCS模式状态",
+            "保留",
+            "直流断路器",
+            "交流断路器",
+            "急停"
+          ],
+          "KeyMode": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        }
+      ]
+    },
+    {
+      "DevIndex": "1",
+      "S_link": 3,
+      "S_linkDev": 2,
+      "data": [
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 1,
+          "DataItemCount": 6,
+          "SlaveDevAddr": 3,
+          "ModbusRegAddr": 850,
+          "GetRegCount": 12,
+          "AreaNum": 0,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_Float",
+          "DataTypeEnum": 8,
+          "LowAddr": 850,
+          "HighAddr": 861,
+          "DataFormat": 3,
+          "KeyDec": [
+            "A相网侧电压",
+            "B相网侧电压",
+            "C相网侧电压",
+            "A相网侧电流",
+            "B相网侧电流",
+            "C相网侧电流"
+          ],
+          "KeyMode": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 7,
+          "DataItemCount": 4,
+          "SlaveDevAddr": 3,
+          "ModbusRegAddr": 862,
+          "GetRegCount": 4,
+          "AreaNum": 1,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_s16",
+          "DataTypeEnum": 4,
+          "LowAddr": 862,
+          "HighAddr": 865,
+          "DataFormat": 0,
+          "KeyDec": [
+            "A相IGBT最高温度",
+            "B相IGBT最高温度",
+            "C相IGBT最高温度",
+            "环境温度"
+          ],
+          "KeyMode": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 11,
+          "DataItemCount": 8,
+          "SlaveDevAddr": 3,
+          "ModbusRegAddr": 866,
+          "GetRegCount": 16,
+          "AreaNum": 2,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_Float",
+          "DataTypeEnum": 8,
+          "LowAddr": 866,
+          "HighAddr": 881,
+          "DataFormat": 3,
+          "KeyDec": [
+            "直流正母电压",
+            "直流负母电压",
+            "电池电压",
+            "电池电流",
+            "电池功率",
+            "输出有功总功率",
+            "输出无功总功率",
+            "电网频率"
+          ],
+          "KeyMode": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 19,
+          "DataItemCount": 6,
+          "SlaveDevAddr": 3,
+          "ModbusRegAddr": 900,
+          "GetRegCount": 6,
+          "AreaNum": 3,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 900,
+          "HighAddr": 905,
+          "DataFormat": 0,
+          "KeyDec": [
+            "PCS开关状态",
+            "PCS模式状态",
+            "保留",
+            "直流断路器",
+            "交流断路器",
+            "急停"
+          ],
+          "KeyMode": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        }
+      ]
+    },
+    {
+      "DevIndex": "2",
+      "S_link": 3,
+      "S_linkDev": 3,
+      "data": [
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 1,
+          "DataItemCount": 6,
+          "SlaveDevAddr": 4,
+          "ModbusRegAddr": 850,
+          "GetRegCount": 12,
+          "AreaNum": 0,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_Float",
+          "DataTypeEnum": 8,
+          "LowAddr": 850,
+          "HighAddr": 861,
+          "DataFormat": 3,
+          "KeyDec": [
+            "A相网侧电压",
+            "B相网侧电压",
+            "C相网侧电压",
+            "A相网侧电流",
+            "B相网侧电流",
+            "C相网侧电流"
+          ],
+          "KeyMode": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 7,
+          "DataItemCount": 4,
+          "SlaveDevAddr": 4,
+          "ModbusRegAddr": 862,
+          "GetRegCount": 4,
+          "AreaNum": 1,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_s16",
+          "DataTypeEnum": 4,
+          "LowAddr": 862,
+          "HighAddr": 865,
+          "DataFormat": 0,
+          "KeyDec": [
+            "A相IGBT最高温度",
+            "B相IGBT最高温度",
+            "C相IGBT最高温度",
+            "环境温度"
+          ],
+          "KeyMode": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 11,
+          "DataItemCount": 8,
+          "SlaveDevAddr": 4,
+          "ModbusRegAddr": 866,
+          "GetRegCount": 16,
+          "AreaNum": 2,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_Float",
+          "DataTypeEnum": 8,
+          "LowAddr": 866,
+          "HighAddr": 881,
+          "DataFormat": 3,
+          "KeyDec": [
+            "直流正母电压",
+            "直流负母电压",
+            "电池电压",
+            "电池电流",
+            "电池功率",
+            "输出有功总功率",
+            "输出无功总功率",
+            "电网频率"
+          ],
+          "KeyMode": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 19,
+          "DataItemCount": 6,
+          "SlaveDevAddr": 4,
+          "ModbusRegAddr": 900,
+          "GetRegCount": 6,
+          "AreaNum": 3,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 900,
+          "HighAddr": 905,
+          "DataFormat": 0,
+          "KeyDec": [
+            "PCS开关状态",
+            "PCS模式状态",
+            "保留",
+            "直流断路器",
+            "交流断路器",
+            "急停"
+          ],
+          "KeyMode": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        }
+      ]
+    },
+    {
+      "DevIndex": "3",
+      "S_link": 3,
+      "S_linkDev": 4,
+      "data": [
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 1,
+          "DataItemCount": 6,
+          "SlaveDevAddr": 5,
+          "ModbusRegAddr": 850,
+          "GetRegCount": 12,
+          "AreaNum": 0,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_Float",
+          "DataTypeEnum": 8,
+          "LowAddr": 850,
+          "HighAddr": 861,
+          "DataFormat": 3,
+          "KeyDec": [
+            "A相网侧电压",
+            "B相网侧电压",
+            "C相网侧电压",
+            "A相网侧电流",
+            "B相网侧电流",
+            "C相网侧电流"
+          ],
+          "KeyMode": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 7,
+          "DataItemCount": 4,
+          "SlaveDevAddr": 5,
+          "ModbusRegAddr": 862,
+          "GetRegCount": 4,
+          "AreaNum": 1,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_s16",
+          "DataTypeEnum": 4,
+          "LowAddr": 862,
+          "HighAddr": 865,
+          "DataFormat": 0,
+          "KeyDec": [
+            "A相IGBT最高温度",
+            "B相IGBT最高温度",
+            "C相IGBT最高温度",
+            "环境温度"
+          ],
+          "KeyMode": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 11,
+          "DataItemCount": 8,
+          "SlaveDevAddr": 5,
+          "ModbusRegAddr": 866,
+          "GetRegCount": 16,
+          "AreaNum": 2,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_Float",
+          "DataTypeEnum": 8,
+          "LowAddr": 866,
+          "HighAddr": 881,
+          "DataFormat": 3,
+          "KeyDec": [
+            "直流正母电压",
+            "直流负母电压",
+            "电池电压",
+            "电池电流",
+            "电池功率",
+            "输出有功总功率",
+            "输出无功总功率",
+            "电网频率"
+          ],
+          "KeyMode": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 19,
+          "DataItemCount": 6,
+          "SlaveDevAddr": 5,
+          "ModbusRegAddr": 900,
+          "GetRegCount": 6,
+          "AreaNum": 3,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 900,
+          "HighAddr": 905,
+          "DataFormat": 0,
+          "KeyDec": [
+            "PCS开关状态",
+            "PCS模式状态",
+            "保留",
+            "直流断路器",
+            "交流断路器",
+            "急停"
+          ],
+          "KeyMode": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3689 @@
+{
+  "applianceName": "未命名",
+  "TotalYcCount": 316,
+  "TotalYxCount": 52,
+  "TotalYkCount": 0,
+  "TotalDDCount": 0,
+  "dataItem": [
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 0,
+      "type": 0,
+      "Name": "停电遥信",
+      "ModelName": "YX_0",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 1,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": "YX_1",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 2,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": "YX_2",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 3,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": "YX_3",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "1#变压器A相电压",
+      "ModelName": "YC_0",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "1#变压器B相电压",
+      "ModelName": "YC_1",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 6,
+      "type": 1,
+      "Name": "1#变压器C相电压",
+      "ModelName": "YC_2",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "1#变压器A相电流",
+      "ModelName": "YC_3",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 8,
+      "type": 1,
+      "Name": "1#变压器B相电流",
+      "ModelName": "YC_4",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 9,
+      "type": 1,
+      "Name": "1#变压器C相电流",
+      "ModelName": "YC_5",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 10,
+      "type": 1,
+      "Name": "1#变压器A相有功",
+      "ModelName": "YC_6",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 11,
+      "type": 1,
+      "Name": "1#变压器B相有功",
+      "ModelName": "YC_7",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 12,
+      "type": 1,
+      "Name": "1#变压器C相有功",
+      "ModelName": "YC_8",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "1#变压器A相无功",
+      "ModelName": "YC_9",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "1#变压器B相无功",
+      "ModelName": "YC_10",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "1#变压器C相无功",
+      "ModelName": "YC_11",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 16,
+      "type": 1,
+      "Name": "1#变压器台区负载率",
+      "ModelName": "YC_12",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 17,
+      "type": 1,
+      "Name": "1#变压器A相日合格率",
+      "ModelName": "YC_13",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 18,
+      "type": 1,
+      "Name": "1#变压器A相日越上限时间",
+      "ModelName": "YC_14",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 19,
+      "type": 1,
+      "Name": "1#变压器A相日越下限时间",
+      "ModelName": "YC_15",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 20,
+      "type": 1,
+      "Name": "1#变压器B相日合格率",
+      "ModelName": "YC_16",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 21,
+      "type": 1,
+      "Name": "1#变压器B相日越上限时间",
+      "ModelName": "YC_17",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 22,
+      "type": 1,
+      "Name": "1#变压器B相日越下限时间",
+      "ModelName": "YC_18",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 23,
+      "type": 1,
+      "Name": "1#变压器C相日合格率",
+      "ModelName": "YC_19",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 24,
+      "type": 1,
+      "Name": "1#变压器C相日越上限时间",
+      "ModelName": "YC_20",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 25,
+      "type": 1,
+      "Name": "1#变压器C相日越下限时间",
+      "ModelName": "YC_21",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 26,
+      "type": 1,
+      "Name": "集中器光伏1_有功功率",
+      "ModelName": "YC_22",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 27,
+      "type": 1,
+      "Name": "集中器光伏1_发电量",
+      "ModelName": "YC_23",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 28,
+      "type": 1,
+      "Name": "集中器光伏2_有功功率",
+      "ModelName": "YC_24",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 29,
+      "type": 1,
+      "Name": "集中器光伏2_发电量",
+      "ModelName": "YC_25",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 30,
+      "type": 1,
+      "Name": "集中器光伏3_有功功率",
+      "ModelName": "YC_26",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 31,
+      "type": 1,
+      "Name": "集中器光伏3_发电量",
+      "ModelName": "YC_27",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 32,
+      "type": 1,
+      "Name": "集中器光伏4_有功功率",
+      "ModelName": "YC_28",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 33,
+      "type": 1,
+      "Name": "集中器光伏4_发电量",
+      "ModelName": "YC_29",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 34,
+      "type": 1,
+      "Name": "集中器光伏5_有功功率",
+      "ModelName": "YC_30",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 35,
+      "type": 1,
+      "Name": "集中器光伏5_发电量",
+      "ModelName": "YC_31",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 36,
+      "type": 1,
+      "Name": "集中器光伏6_有功功率",
+      "ModelName": "YC_32",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 37,
+      "type": 1,
+      "Name": "集中器光伏6_发电量",
+      "ModelName": "YC_33",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 38,
+      "type": 1,
+      "Name": "集中器光伏7_有功功率",
+      "ModelName": "YC_34",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 39,
+      "type": 1,
+      "Name": "集中器光伏7_发电量",
+      "ModelName": "YC_35",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 40,
+      "type": 1,
+      "Name": "集中器光伏8_有功功率",
+      "ModelName": "YC_36",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 41,
+      "type": 1,
+      "Name": "集中器光伏8_发电量",
+      "ModelName": "YC_37",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 42,
+      "type": 1,
+      "Name": "集中器光伏9_有功功率",
+      "ModelName": "YC_38",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 43,
+      "type": 1,
+      "Name": "集中器光伏9_发电量",
+      "ModelName": "YC_39",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 44,
+      "type": 1,
+      "Name": "集中器光伏10_有功功率",
+      "ModelName": "YC_40",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 45,
+      "type": 1,
+      "Name": "集中器光伏10_发电量",
+      "ModelName": "YC_41",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 46,
+      "type": 1,
+      "Name": "集中器光伏11_有功功率",
+      "ModelName": "YC_42",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 47,
+      "type": 1,
+      "Name": "集中器光伏11_发电量",
+      "ModelName": "YC_43",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 48,
+      "type": 1,
+      "Name": "集中器光伏12_有功功率",
+      "ModelName": "YC_44",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 49,
+      "type": 1,
+      "Name": "集中器光伏12_发电量",
+      "ModelName": "YC_45",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 50,
+      "type": 1,
+      "Name": "集中器光伏13_有功功率",
+      "ModelName": "YC_46",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 51,
+      "type": 1,
+      "Name": "集中器光伏13_发电量",
+      "ModelName": "YC_47",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 52,
+      "type": 1,
+      "Name": "集中器光伏14_有功功率",
+      "ModelName": "YC_48",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 53,
+      "type": 1,
+      "Name": "集中器光伏14_发电量",
+      "ModelName": "YC_49",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 54,
+      "type": 1,
+      "Name": "集中器光伏15_有功功率",
+      "ModelName": "YC_50",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 55,
+      "type": 1,
+      "Name": "集中器光伏15_发电量",
+      "ModelName": "YC_51",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 56,
+      "type": 1,
+      "Name": "1#台区光伏_总有功率",
+      "ModelName": "YC_52",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 57,
+      "type": 1,
+      "Name": "1#台区光伏_总电流",
+      "ModelName": "YC_53",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 58,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_54",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 59,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_55",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 60,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_56",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 0,
+      "RegNo": 61,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_57",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 0,
+      "type": 0,
+      "Name": "停电遥信",
+      "ModelName": "YX_4",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 1,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": "YX_5",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 2,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": "YX_6",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 3,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": "YX_7",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "4#变压器A相电压",
+      "ModelName": "YC_58",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "4#变压器B相电压",
+      "ModelName": "YC_59",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 6,
+      "type": 1,
+      "Name": "4#变压器C相电压",
+      "ModelName": "YC_60",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "4#变压器A相电流",
+      "ModelName": "YC_61",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 8,
+      "type": 1,
+      "Name": "4#变压器B相电流",
+      "ModelName": "YC_62",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 9,
+      "type": 1,
+      "Name": "4#变压器C相电流",
+      "ModelName": "YC_63",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 10,
+      "type": 1,
+      "Name": "4#变压器A相有功",
+      "ModelName": "YC_64",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 11,
+      "type": 1,
+      "Name": "4#变压器B相有功",
+      "ModelName": "YC_65",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 12,
+      "type": 1,
+      "Name": "4#变压器C相有功",
+      "ModelName": "YC_66",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "4#变压器A相无功",
+      "ModelName": "YC_67",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "4#变压器B相无功",
+      "ModelName": "YC_68",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "4#变压器C相无功",
+      "ModelName": "YC_69",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 16,
+      "type": 1,
+      "Name": "4#变压器台区负载率",
+      "ModelName": "YC_70",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 17,
+      "type": 1,
+      "Name": "4#变压器A相日合格率",
+      "ModelName": "YC_71",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 18,
+      "type": 1,
+      "Name": "4#变压器A相日越上限时间",
+      "ModelName": "YC_72",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 19,
+      "type": 1,
+      "Name": "4#变压器A相日越下限时间",
+      "ModelName": "YC_73",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 20,
+      "type": 1,
+      "Name": "4#变压器B相日合格率",
+      "ModelName": "YC_74",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 21,
+      "type": 1,
+      "Name": "4#变压器B相日越上限时间",
+      "ModelName": "YC_75",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 22,
+      "type": 1,
+      "Name": "4#变压器B相日越下限时间",
+      "ModelName": "YC_76",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 23,
+      "type": 1,
+      "Name": "4#变压器C相日合格率",
+      "ModelName": "YC_77",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 24,
+      "type": 1,
+      "Name": "4#变压器C相日越上限时间",
+      "ModelName": "YC_78",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 25,
+      "type": 1,
+      "Name": "4#变压器C相日越下限时间",
+      "ModelName": "YC_79",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 26,
+      "type": 1,
+      "Name": "集中器光伏1_有功功率",
+      "ModelName": "YC_80",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 27,
+      "type": 1,
+      "Name": "集中器光伏1_发电量",
+      "ModelName": "YC_81",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 28,
+      "type": 1,
+      "Name": "集中器光伏2_有功功率",
+      "ModelName": "YC_82",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 29,
+      "type": 1,
+      "Name": "集中器光伏2_发电量",
+      "ModelName": "YC_83",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 30,
+      "type": 1,
+      "Name": "集中器光伏3_有功功率",
+      "ModelName": "YC_84",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 31,
+      "type": 1,
+      "Name": "集中器光伏3_发电量",
+      "ModelName": "YC_85",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 32,
+      "type": 1,
+      "Name": "集中器光伏4_有功功率",
+      "ModelName": "YC_86",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 33,
+      "type": 1,
+      "Name": "集中器光伏4_发电量",
+      "ModelName": "YC_87",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 34,
+      "type": 1,
+      "Name": "集中器光伏5_有功功率",
+      "ModelName": "YC_88",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 35,
+      "type": 1,
+      "Name": "集中器光伏5_发电量",
+      "ModelName": "YC_89",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 36,
+      "type": 1,
+      "Name": "集中器光伏6_有功功率",
+      "ModelName": "YC_90",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 37,
+      "type": 1,
+      "Name": "集中器光伏6_发电量",
+      "ModelName": "YC_91",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 38,
+      "type": 1,
+      "Name": "集中器光伏7_有功功率",
+      "ModelName": "YC_92",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 39,
+      "type": 1,
+      "Name": "集中器光伏7_发电量",
+      "ModelName": "YC_93",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 40,
+      "type": 1,
+      "Name": "集中器光伏8_有功功率",
+      "ModelName": "YC_94",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 41,
+      "type": 1,
+      "Name": "集中器光伏8_发电量",
+      "ModelName": "YC_95",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 42,
+      "type": 1,
+      "Name": "集中器光伏9_有功功率",
+      "ModelName": "YC_96",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 43,
+      "type": 1,
+      "Name": "集中器光伏9_发电量",
+      "ModelName": "YC_97",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 44,
+      "type": 1,
+      "Name": "集中器光伏10_有功功率",
+      "ModelName": "YC_98",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 45,
+      "type": 1,
+      "Name": "集中器光伏10_发电量",
+      "ModelName": "YC_99",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 46,
+      "type": 1,
+      "Name": "集中器光伏11_有功功率",
+      "ModelName": "YC_100",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 47,
+      "type": 1,
+      "Name": "集中器光伏11_发电量",
+      "ModelName": "YC_101",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 48,
+      "type": 1,
+      "Name": "集中器光伏12_有功功率",
+      "ModelName": "YC_102",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 49,
+      "type": 1,
+      "Name": "集中器光伏12_发电量",
+      "ModelName": "YC_103",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 50,
+      "type": 1,
+      "Name": "集中器光伏13_有功功率",
+      "ModelName": "YC_104",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 51,
+      "type": 1,
+      "Name": "集中器光伏13_发电量",
+      "ModelName": "YC_105",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 52,
+      "type": 1,
+      "Name": "集中器光伏14_有功功率",
+      "ModelName": "YC_106",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 53,
+      "type": 1,
+      "Name": "集中器光伏14_发电量",
+      "ModelName": "YC_107",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 54,
+      "type": 1,
+      "Name": "集中器光伏15_有功功率",
+      "ModelName": "YC_108",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 55,
+      "type": 1,
+      "Name": "集中器光伏15_发电量",
+      "ModelName": "YC_109",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 56,
+      "type": 1,
+      "Name": "3#台区光伏_总有功率",
+      "ModelName": "YC_110",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 57,
+      "type": 1,
+      "Name": "3#台区光伏_总电流",
+      "ModelName": "YC_111",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 58,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_112",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 59,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_113",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 60,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_114",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 1,
+      "RegNo": 61,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_115",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 0,
+      "type": 0,
+      "Name": "停电遥信",
+      "ModelName": "YX_8",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 1,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": "YX_9",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 2,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": "YX_10",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 3,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": "YX_11",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "2#变压器A相电压",
+      "ModelName": "YC_116",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "2#变压器B相电压",
+      "ModelName": "YC_117",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 6,
+      "type": 1,
+      "Name": "2#变压器C相电压",
+      "ModelName": "YC_118",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "2#变压器A相电流",
+      "ModelName": "YC_119",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 8,
+      "type": 1,
+      "Name": "2#变压器B相电流",
+      "ModelName": "YC_120",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 9,
+      "type": 1,
+      "Name": "2#变压器C相电流",
+      "ModelName": "YC_121",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 10,
+      "type": 1,
+      "Name": "2#变压器A相有功",
+      "ModelName": "YC_122",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 11,
+      "type": 1,
+      "Name": "2#变压器B相有功",
+      "ModelName": "YC_123",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 12,
+      "type": 1,
+      "Name": "2#变压器C相有功",
+      "ModelName": "YC_124",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "2#变压器A相无功",
+      "ModelName": "YC_125",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "2#变压器B相无功",
+      "ModelName": "YC_126",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "2#变压器C相无功",
+      "ModelName": "YC_127",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 16,
+      "type": 1,
+      "Name": "2#变压器台区负载率",
+      "ModelName": "YC_128",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 17,
+      "type": 1,
+      "Name": "2#变压器A相日合格率",
+      "ModelName": "YC_129",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 18,
+      "type": 1,
+      "Name": "2#变压器A相日越上限时间",
+      "ModelName": "YC_130",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 19,
+      "type": 1,
+      "Name": "2#变压器A相日越下限时间",
+      "ModelName": "YC_131",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 20,
+      "type": 1,
+      "Name": "2#变压器B相日合格率",
+      "ModelName": "YC_132",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 21,
+      "type": 1,
+      "Name": "2#变压器B相日越上限时间",
+      "ModelName": "YC_133",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 22,
+      "type": 1,
+      "Name": "2#变压器B相日越下限时间",
+      "ModelName": "YC_134",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 23,
+      "type": 1,
+      "Name": "2#变压器C相日合格率",
+      "ModelName": "YC_135",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 24,
+      "type": 1,
+      "Name": "2#变压器C相日越上限时间",
+      "ModelName": "YC_136",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 25,
+      "type": 1,
+      "Name": "2#变压器C相日越下限时间",
+      "ModelName": "YC_137",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 26,
+      "type": 1,
+      "Name": "集中器光伏1_有功功率",
+      "ModelName": "YC_138",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 27,
+      "type": 1,
+      "Name": "集中器光伏1_发电量",
+      "ModelName": "YC_139",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 28,
+      "type": 1,
+      "Name": "集中器光伏2_有功功率",
+      "ModelName": "YC_140",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 29,
+      "type": 1,
+      "Name": "集中器光伏2_发电量",
+      "ModelName": "YC_141",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 30,
+      "type": 1,
+      "Name": "集中器光伏3_有功功率",
+      "ModelName": "YC_142",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 31,
+      "type": 1,
+      "Name": "集中器光伏3_发电量",
+      "ModelName": "YC_143",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 32,
+      "type": 1,
+      "Name": "集中器光伏4_有功功率",
+      "ModelName": "YC_144",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 33,
+      "type": 1,
+      "Name": "集中器光伏4_发电量",
+      "ModelName": "YC_145",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 34,
+      "type": 1,
+      "Name": "集中器光伏5_有功功率",
+      "ModelName": "YC_146",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 35,
+      "type": 1,
+      "Name": "集中器光伏5_发电量",
+      "ModelName": "YC_147",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 36,
+      "type": 1,
+      "Name": "集中器光伏6_有功功率",
+      "ModelName": "YC_148",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 37,
+      "type": 1,
+      "Name": "集中器光伏6_发电量",
+      "ModelName": "YC_149",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 38,
+      "type": 1,
+      "Name": "集中器光伏7_有功功率",
+      "ModelName": "YC_150",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 39,
+      "type": 1,
+      "Name": "集中器光伏7_发电量",
+      "ModelName": "YC_151",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 40,
+      "type": 1,
+      "Name": "集中器光伏8_有功功率",
+      "ModelName": "YC_152",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 41,
+      "type": 1,
+      "Name": "集中器光伏8_发电量",
+      "ModelName": "YC_153",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 42,
+      "type": 1,
+      "Name": "集中器光伏9_有功功率",
+      "ModelName": "YC_154",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 43,
+      "type": 1,
+      "Name": "集中器光伏9_发电量",
+      "ModelName": "YC_155",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 44,
+      "type": 1,
+      "Name": "集中器光伏10_有功功率",
+      "ModelName": "YC_156",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 45,
+      "type": 1,
+      "Name": "集中器光伏10_发电量",
+      "ModelName": "YC_157",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 46,
+      "type": 1,
+      "Name": "集中器光伏11_有功功率",
+      "ModelName": "YC_158",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 47,
+      "type": 1,
+      "Name": "集中器光伏11_发电量",
+      "ModelName": "YC_159",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 48,
+      "type": 1,
+      "Name": "集中器光伏12_有功功率",
+      "ModelName": "YC_160",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 49,
+      "type": 1,
+      "Name": "集中器光伏12_发电量",
+      "ModelName": "YC_161",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 50,
+      "type": 1,
+      "Name": "集中器光伏13_有功功率",
+      "ModelName": "YC_162",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 51,
+      "type": 1,
+      "Name": "集中器光伏13_发电量",
+      "ModelName": "YC_163",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 52,
+      "type": 1,
+      "Name": "集中器光伏14_有功功率",
+      "ModelName": "YC_164",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 53,
+      "type": 1,
+      "Name": "集中器光伏14_发电量",
+      "ModelName": "YC_165",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 54,
+      "type": 1,
+      "Name": "集中器光伏15_有功功率",
+      "ModelName": "YC_166",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 55,
+      "type": 1,
+      "Name": "集中器光伏15_发电量",
+      "ModelName": "YC_167",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 56,
+      "type": 1,
+      "Name": "1#台区柔直转移负荷",
+      "ModelName": "YC_168",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 57,
+      "type": 1,
+      "Name": "2#台区柔直转移负荷",
+      "ModelName": "YC_169",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 58,
+      "type": 1,
+      "Name": "4#台区柔直转移负荷",
+      "ModelName": "YC_170",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 59,
+      "type": 1,
+      "Name": "2#台区光伏_总有功率",
+      "ModelName": "YC_171",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 60,
+      "type": 1,
+      "Name": "2#台区光伏_总电流",
+      "ModelName": "YC_172",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 2,
+      "RegNo": 61,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_173",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 3,
+      "RegNo": 0,
+      "type": 0,
+      "Name": " 运行状态",
+      "ModelName": "YX_12",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 3,
+      "RegNo": 1,
+      "type": 0,
+      "Name": "工作模式",
+      "ModelName": "YX_13",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 3,
+      "RegNo": 2,
+      "type": 0,
+      "Name": "直流断路器状态",
+      "ModelName": "YX_14",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 3,
+      "RegNo": 3,
+      "type": 0,
+      "Name": "交流断路器状态",
+      "ModelName": "YX_15",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 3,
+      "RegNo": 4,
+      "type": 0,
+      "Name": "告警信息",
+      "ModelName": "YX_16",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 3,
+      "RegNo": 5,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": "YX_17",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 3,
+      "RegNo": 6,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": "YX_18",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 3,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "A相网侧电压",
+      "ModelName": "YC_174",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 3,
+      "RegNo": 8,
+      "type": 1,
+      "Name": "B相网侧电压",
+      "ModelName": "YC_175",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 3,
+      "RegNo": 9,
+      "type": 1,
+      "Name": "C相网侧电压",
+      "ModelName": "YC_176",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 3,
+      "RegNo": 10,
+      "type": 1,
+      "Name": "A相网侧电流",
+      "ModelName": "YC_177",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 3,
+      "RegNo": 11,
+      "type": 1,
+      "Name": "B相网侧电流",
+      "ModelName": "YC_178",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 3,
+      "RegNo": 12,
+      "type": 1,
+      "Name": "C相网侧电流",
+      "ModelName": "YC_179",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 3,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "直流正母电压",
+      "ModelName": "YC_180",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 3,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "直流负母电压",
+      "ModelName": "YC_181",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 3,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "输出有功总功率",
+      "ModelName": "YC_182",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 3,
+      "RegNo": 16,
+      "type": 1,
+      "Name": "输出无功总功率",
+      "ModelName": "YC_183",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 3,
+      "RegNo": 17,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_184",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 3,
+      "RegNo": 18,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_185",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 3,
+      "RegNo": 19,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_186",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 3,
+      "RegNo": 20,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_187",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 3,
+      "RegNo": 21,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_188",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 4,
+      "RegNo": 0,
+      "type": 0,
+      "Name": " 运行状态",
+      "ModelName": "YX_19",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 4,
+      "RegNo": 1,
+      "type": 0,
+      "Name": "工作模式",
+      "ModelName": "YX_20",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 4,
+      "RegNo": 2,
+      "type": 0,
+      "Name": "直流断路器状态",
+      "ModelName": "YX_21",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 4,
+      "RegNo": 3,
+      "type": 0,
+      "Name": "交流断路器状态",
+      "ModelName": "YX_22",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 4,
+      "RegNo": 4,
+      "type": 0,
+      "Name": "告警信息",
+      "ModelName": "YX_23",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 4,
+      "RegNo": 5,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": "YX_24",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 4,
+      "RegNo": 6,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": "YX_25",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 4,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "A相网侧电压",
+      "ModelName": "YC_189",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 4,
+      "RegNo": 8,
+      "type": 1,
+      "Name": "B相网侧电压",
+      "ModelName": "YC_190",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 4,
+      "RegNo": 9,
+      "type": 1,
+      "Name": "C相网侧电压",
+      "ModelName": "YC_191",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 4,
+      "RegNo": 10,
+      "type": 1,
+      "Name": "A相网侧电流",
+      "ModelName": "YC_192",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 4,
+      "RegNo": 11,
+      "type": 1,
+      "Name": "B相网侧电流",
+      "ModelName": "YC_193",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 4,
+      "RegNo": 12,
+      "type": 1,
+      "Name": "C相网侧电流",
+      "ModelName": "YC_194",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 4,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "直流正母电压",
+      "ModelName": "YC_195",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 4,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "直流负母电压",
+      "ModelName": "YC_196",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 4,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "输出有功总功率",
+      "ModelName": "YC_197",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 4,
+      "RegNo": 16,
+      "type": 1,
+      "Name": "输出无功总功率",
+      "ModelName": "YC_198",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 4,
+      "RegNo": 17,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_199",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 4,
+      "RegNo": 18,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_200",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 4,
+      "RegNo": 19,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_201",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 4,
+      "RegNo": 20,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_202",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 4,
+      "RegNo": 21,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_203",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 5,
+      "RegNo": 0,
+      "type": 0,
+      "Name": " 运行状态",
+      "ModelName": "YX_26",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 5,
+      "RegNo": 1,
+      "type": 0,
+      "Name": "工作模式",
+      "ModelName": "YX_27",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 5,
+      "RegNo": 2,
+      "type": 0,
+      "Name": "直流断路器状态",
+      "ModelName": "YX_28",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 5,
+      "RegNo": 3,
+      "type": 0,
+      "Name": "交流断路器状态",
+      "ModelName": "YX_29",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 5,
+      "RegNo": 4,
+      "type": 0,
+      "Name": "告警信息",
+      "ModelName": "YX_30",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 5,
+      "RegNo": 5,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": "YX_31",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 5,
+      "RegNo": 6,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": "YX_32",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 5,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "A相网侧电压",
+      "ModelName": "YC_204",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 5,
+      "RegNo": 8,
+      "type": 1,
+      "Name": "B相网侧电压",
+      "ModelName": "YC_205",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 5,
+      "RegNo": 9,
+      "type": 1,
+      "Name": "C相网侧电压",
+      "ModelName": "YC_206",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 5,
+      "RegNo": 10,
+      "type": 1,
+      "Name": "A相网侧电流",
+      "ModelName": "YC_207",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 5,
+      "RegNo": 11,
+      "type": 1,
+      "Name": "B相网侧电流",
+      "ModelName": "YC_208",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 5,
+      "RegNo": 12,
+      "type": 1,
+      "Name": "C相网侧电流",
+      "ModelName": "YC_209",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 5,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "直流正母电压",
+      "ModelName": "YC_210",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 5,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "直流负母电压",
+      "ModelName": "YC_211",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 5,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "输出有功总功率",
+      "ModelName": "YC_212",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 5,
+      "RegNo": 16,
+      "type": 1,
+      "Name": "输出无功总功率",
+      "ModelName": "YC_213",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 5,
+      "RegNo": 17,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_214",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 5,
+      "RegNo": 18,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_215",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 5,
+      "RegNo": 19,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_216",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 5,
+      "RegNo": 20,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_217",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 5,
+      "RegNo": 21,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_218",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 6,
+      "RegNo": 0,
+      "type": 0,
+      "Name": " 运行状态",
+      "ModelName": "YX_33",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 6,
+      "RegNo": 1,
+      "type": 0,
+      "Name": "工作模式",
+      "ModelName": "YX_34",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 6,
+      "RegNo": 2,
+      "type": 0,
+      "Name": "直流断路器状态",
+      "ModelName": "YX_35",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 6,
+      "RegNo": 3,
+      "type": 0,
+      "Name": "交流断路器状态",
+      "ModelName": "YX_36",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 6,
+      "RegNo": 4,
+      "type": 0,
+      "Name": "告警信息",
+      "ModelName": "YX_37",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 6,
+      "RegNo": 5,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": "YX_38",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 6,
+      "RegNo": 6,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": "YX_39",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 6,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "A相网侧电压",
+      "ModelName": "YC_219",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 6,
+      "RegNo": 8,
+      "type": 1,
+      "Name": "B相网侧电压",
+      "ModelName": "YC_220",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 6,
+      "RegNo": 9,
+      "type": 1,
+      "Name": "C相网侧电压",
+      "ModelName": "YC_221",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 6,
+      "RegNo": 10,
+      "type": 1,
+      "Name": "A相网侧电流",
+      "ModelName": "YC_222",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 6,
+      "RegNo": 11,
+      "type": 1,
+      "Name": "B相网侧电流",
+      "ModelName": "YC_223",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 6,
+      "RegNo": 12,
+      "type": 1,
+      "Name": "C相网侧电流",
+      "ModelName": "YC_224",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 6,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "直流正母电压",
+      "ModelName": "YC_225",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 6,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "直流负母电压",
+      "ModelName": "YC_226",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 6,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "输出有功总功率",
+      "ModelName": "YC_227",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 6,
+      "RegNo": 16,
+      "type": 1,
+      "Name": "输出无功总功率",
+      "ModelName": "YC_228",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 6,
+      "RegNo": 17,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_229",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 6,
+      "RegNo": 18,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_230",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 6,
+      "RegNo": 19,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_231",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 6,
+      "RegNo": 20,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_232",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 6,
+      "RegNo": 21,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_233",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 7,
+      "RegNo": 0,
+      "type": 0,
+      "Name": "故障状态字",
+      "ModelName": "YX_40",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 7,
+      "RegNo": 1,
+      "type": 0,
+      "Name": "开关状态",
+      "ModelName": "YX_41",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 7,
+      "RegNo": 2,
+      "type": 1,
+      "Name": "开关A相电压",
+      "ModelName": "YC_234",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 7,
+      "RegNo": 3,
+      "type": 1,
+      "Name": "开关B相电压",
+      "ModelName": "YC_235",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 7,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "开关C相电压",
+      "ModelName": "YC_236",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 7,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_237",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 7,
+      "RegNo": 6,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_238",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 7,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_239",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 8,
+      "RegNo": 0,
+      "type": 0,
+      "Name": "故障状态字",
+      "ModelName": "YX_42",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 8,
+      "RegNo": 1,
+      "type": 0,
+      "Name": "开关状态",
+      "ModelName": "YX_43",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 8,
+      "RegNo": 2,
+      "type": 1,
+      "Name": "开关A相电压",
+      "ModelName": "YC_240",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 8,
+      "RegNo": 3,
+      "type": 1,
+      "Name": "开关B相电压",
+      "ModelName": "YC_241",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 8,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "开关C相电压",
+      "ModelName": "YC_242",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 8,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_243",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 8,
+      "RegNo": 6,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_244",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 8,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_245",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 9,
+      "RegNo": 0,
+      "type": 0,
+      "Name": "故障状态字",
+      "ModelName": "YX_44",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 9,
+      "RegNo": 1,
+      "type": 0,
+      "Name": "开关状态",
+      "ModelName": "YX_45",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 9,
+      "RegNo": 2,
+      "type": 1,
+      "Name": "开关A相电压",
+      "ModelName": "YC_246",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 9,
+      "RegNo": 3,
+      "type": 1,
+      "Name": "开关B相电压",
+      "ModelName": "YC_247",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 9,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "开关C相电压",
+      "ModelName": "YC_248",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 9,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_249",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 9,
+      "RegNo": 6,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_250",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 9,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_251",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "总电压",
+      "ModelName": "YC_252",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "总电流",
+      "ModelName": "YC_253",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 2,
+      "type": 1,
+      "Name": "总功率",
+      "ModelName": "YC_254",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 3,
+      "type": 1,
+      "Name": "总SOC",
+      "ModelName": "YC_255",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "总充电限制电流",
+      "ModelName": "YC_256",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "总放电限制电流",
+      "ModelName": "YC_257",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 6,
+      "type": 1,
+      "Name": "总充电限制功率",
+      "ModelName": "YC_258",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "总放电限制功率",
+      "ModelName": "YC_259",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 8,
+      "type": 1,
+      "Name": "当前可充电容量",
+      "ModelName": "YC_260",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 9,
+      "type": 1,
+      "Name": "当前可放电容量",
+      "ModelName": "YC_261",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 10,
+      "type": 1,
+      "Name": "累计充电容量",
+      "ModelName": "YC_262",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 11,
+      "type": 1,
+      "Name": "累计放电容量",
+      "ModelName": "YC_263",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 12,
+      "type": 1,
+      "Name": "并网侧A相电压",
+      "ModelName": "YC_264",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "并网侧A相电流",
+      "ModelName": "YC_265",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "并网侧A相有功功率",
+      "ModelName": "YC_266",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "并网侧A相无功功率",
+      "ModelName": "YC_267",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 16,
+      "type": 1,
+      "Name": "并网侧B相电压",
+      "ModelName": "YC_268",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 17,
+      "type": 1,
+      "Name": "并网侧B相电流",
+      "ModelName": "YC_269",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 18,
+      "type": 1,
+      "Name": "并网侧B相有功功率",
+      "ModelName": "YC_270",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 19,
+      "type": 1,
+      "Name": "并网侧B相无功功率",
+      "ModelName": "YC_271",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 20,
+      "type": 1,
+      "Name": "并网侧C相电压",
+      "ModelName": "YC_272",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 21,
+      "type": 1,
+      "Name": "并网侧C相电流",
+      "ModelName": "YC_273",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 22,
+      "type": 1,
+      "Name": "并网侧C相有功功率",
+      "ModelName": "YC_274",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 23,
+      "type": 1,
+      "Name": "并网侧C相无功功率",
+      "ModelName": "YC_275",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 24,
+      "type": 1,
+      "Name": "并网侧总有功功率",
+      "ModelName": "YC_276",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 25,
+      "type": 1,
+      "Name": "并网侧总无功功率",
+      "ModelName": "YC_277",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 10,
+      "RegNo": 26,
+      "type": 1,
+      "Name": "并网侧总视在功率",
+      "ModelName": "YC_278",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "总电压",
+      "ModelName": "YC_279",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "总电流",
+      "ModelName": "YC_280",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 2,
+      "type": 1,
+      "Name": "总功率",
+      "ModelName": "YC_281",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 3,
+      "type": 1,
+      "Name": "总SOC",
+      "ModelName": "YC_282",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "总充电限制电流",
+      "ModelName": "YC_283",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "总放电限制电流",
+      "ModelName": "YC_284",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 6,
+      "type": 1,
+      "Name": "总充电限制功率",
+      "ModelName": "YC_285",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "总放电限制功率",
+      "ModelName": "YC_286",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 8,
+      "type": 1,
+      "Name": "当前可充电容量",
+      "ModelName": "YC_287",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 9,
+      "type": 1,
+      "Name": "当前可放电容量",
+      "ModelName": "YC_288",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 10,
+      "type": 1,
+      "Name": "累计充电容量",
+      "ModelName": "YC_289",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 11,
+      "type": 1,
+      "Name": "累计放电容量",
+      "ModelName": "YC_290",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 12,
+      "type": 1,
+      "Name": "并网侧A相电压",
+      "ModelName": "YC_291",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "并网侧A相电流",
+      "ModelName": "YC_292",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "并网侧A相有功功率",
+      "ModelName": "YC_293",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "并网侧A相无功功率",
+      "ModelName": "YC_294",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 16,
+      "type": 1,
+      "Name": "并网侧B相电压",
+      "ModelName": "YC_295",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 17,
+      "type": 1,
+      "Name": "并网侧B相电流",
+      "ModelName": "YC_296",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 18,
+      "type": 1,
+      "Name": "并网侧B相有功功率",
+      "ModelName": "YC_297",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 19,
+      "type": 1,
+      "Name": "并网侧B相无功功率",
+      "ModelName": "YC_298",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 20,
+      "type": 1,
+      "Name": "并网侧C相电压",
+      "ModelName": "YC_299",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 21,
+      "type": 1,
+      "Name": "并网侧C相电流",
+      "ModelName": "YC_300",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 22,
+      "type": 1,
+      "Name": "并网侧C相有功功率",
+      "ModelName": "YC_301",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 23,
+      "type": 1,
+      "Name": "并网侧C相无功功率",
+      "ModelName": "YC_302",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 24,
+      "type": 1,
+      "Name": "并网侧总有功功率",
+      "ModelName": "YC_303",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 25,
+      "type": 1,
+      "Name": "并网侧总无功功率",
+      "ModelName": "YC_304",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 11,
+      "RegNo": 26,
+      "type": 1,
+      "Name": "并网侧总视在功率",
+      "ModelName": "YC_305",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 12,
+      "RegNo": 0,
+      "type": 0,
+      "Name": "运行状态",
+      "ModelName": "YX_46",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 12,
+      "RegNo": 1,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": "YX_47",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 12,
+      "RegNo": 2,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": "YX_48",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 12,
+      "RegNo": 3,
+      "type": 1,
+      "Name": "充电桩1充电电流",
+      "ModelName": "YC_306",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 12,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "充电桩1有功功率",
+      "ModelName": "YC_307",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 12,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "充电桩1视在功率",
+      "ModelName": "YC_308",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 12,
+      "RegNo": 6,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_309",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 12,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_310",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 13,
+      "RegNo": 0,
+      "type": 0,
+      "Name": "运行状态",
+      "ModelName": "YX_49",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 13,
+      "RegNo": 1,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": "YX_50",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 13,
+      "RegNo": 2,
+      "type": 0,
+      "Name": "预留",
+      "ModelName": "YX_51",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 13,
+      "RegNo": 3,
+      "type": 1,
+      "Name": "充电桩2充电电流",
+      "ModelName": "YC_311",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 13,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "充电桩2有功功率",
+      "ModelName": "YC_312",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 13,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "充电桩2视在功率",
+      "ModelName": "YC_313",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 13,
+      "RegNo": 6,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_314",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 10,
+      "devNo": 13,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "预留",
+      "ModelName": "YC_315",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    }
+  ]
+}
