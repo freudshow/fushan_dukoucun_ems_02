@@ -1,0 +1,88 @@
+{
+  "devListCount": 1,
+  "devlist": [
+    {
+      "DevName": "柔直1",
+      "devIndex": 0,
+      "addr": 1,
+      "yxNum": 2,
+      "ycNum": 2,
+      "ymNum": 2,
+      "linkAddrLen": 2,
+      "commAddrLen": 2,
+      "infoAddrLen": 2,
+      "cotLen": 2,
+      "isBalance": 1,
+      "yxStartAddr": 1,
+      "ycStartAddr": 16385,
+      "ddStartAddr": 25601,
+      "callAllDataTimeInterval": 5,
+      "syncTimeInterval": 1,
+      "callDDDataTimeInterval": 10,
+      "charoverTime": 20,
+      "yknumsingle": 0,
+      "yknumdouble": 0,
+      "yksingleStartAddr": 24577,
+      "ykdoubleStartAddr": 24577,
+      "paraNum": 0,
+      "paraStartAddr": 32800,
+      "paraCmd": 0,
+      "data": [
+        {
+          "linkNo": 9,
+          "devNo": 0,
+          "regNo": 0,
+          "addr": 0,
+          "name": null,
+          "DataType": 0,
+          "ModeName": null
+        },
+        {
+          "linkNo": 9,
+          "devNo": 0,
+          "regNo": 1,
+          "addr": 1,
+          "name": null,
+          "DataType": 0,
+          "ModeName": null
+        },
+        {
+          "linkNo": 9,
+          "devNo": 0,
+          "regNo": 2,
+          "addr": 16385,
+          "name": null,
+          "DataType": 1,
+          "ModeName": null
+        },
+        {
+          "linkNo": 9,
+          "devNo": 0,
+          "regNo": 3,
+          "addr": 16386,
+          "name": null,
+          "DataType": 1,
+          "ModeName": null
+        },
+        {
+          "linkNo": 9,
+          "devNo": 0,
+          "regNo": 4,
+          "addr": 26501,
+          "name": null,
+          "DataType": 3,
+          "ModeName": null
+        },
+        {
+          "linkNo": 9,
+          "devNo": 0,
+          "regNo": 5,
+          "addr": 26502,
+          "name": null,
+          "DataType": 3,
+          "ModeName": null
+        }
+      ]
+    }
+  ]
+}
