@@ -1,0 +1,100 @@
+{
+  "RepeatTimes": 5,
+  "IntervalTimeMs": 1000,
+  "FE_Count": 4,
+  "isBroadcast_Time": 1,
+  "Broadcast_Time": "T00:00:00.000",
+  "DveConfig": [
+    {
+      "DveID": 0,
+      "DveIsValid": "Y",
+      "DveAddr": [
+        "00",
+        "00",
+        "00",
+        "00",
+        "00",
+        "01"
+      ],
+      "DevPort": null,
+      "DevDescription": null,
+      "DveProtocl": 0,
+      "DveModel": "MultiMeter",
+      "Phase": 0
+    }
+  ],
+  "DataConfig": [
+    {
+      "DataName": null,
+      "Desc": "(1)A相电压",
+      "UseBlockData": 0,
+      "IsMultiRouteData": false,
+      "BlockModelList": [],
+      "RouteIdx": 1,
+      "RegNo": 0,
+      "Type": 1,
+      "BlockDataCount": 0,
+      "DataModelName": "电压",
+      "DataID": [
+        "02",
+        "01",
+        "01",
+        "00"
+      ],
+      "CheckEnabled": true,
+      "Format": "XXX.X",
+      "DataLen": 2,
+      "Danwei": "V",
+      "DataRorW": 0,
+      "DveModel": "MultiMeter"
+    },
+    {
+      "DataName": null,
+      "Desc": "(1)B相电压",
+      "UseBlockData": 0,
+      "IsMultiRouteData": false,
+      "BlockModelList": [],
+      "RouteIdx": 1,
+      "RegNo": 1,
+      "Type": 1,
+      "BlockDataCount": 0,
+      "DataModelName": "电压",
+      "DataID": [
+        "02",
+        "01",
+        "02",
+        "00"
+      ],
+      "CheckEnabled": true,
+      "Format": "XXX.X",
+      "DataLen": 2,
+      "Danwei": "V",
+      "DataRorW": 0,
+      "DveModel": "MultiMeter"
+    },
+    {
+      "DataName": null,
+      "Desc": "(1)C相电压",
+      "UseBlockData": 0,
+      "IsMultiRouteData": false,
+      "BlockModelList": [],
+      "RouteIdx": 1,
+      "RegNo": 2,
+      "Type": 1,
+      "BlockDataCount": 0,
+      "DataModelName": "电压",
+      "DataID": [
+        "02",
+        "01",
+        "03",
+        "00"
+      ],
+      "CheckEnabled": true,
+      "Format": "XXX.X",
+      "DataLen": 2,
+      "Danwei": "V",
+      "DataRorW": 0,
+      "DveModel": "MultiMeter"
+    }
+  ]
+}
