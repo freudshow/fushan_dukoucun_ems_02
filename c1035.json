@@ -1,0 +1,30 @@
+{
+  "Period": 50,
+  "dataset": [
+    {
+      "DevIndex": 0,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": null,
+      "ArrayLogical": 0,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 914,
+          "Desc": "设备[16]-断路器分闸原因",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": "11"
+        },
+        {
+          "RtdbNo": 901,
+          "Desc": "设备[16]-断路器停电",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,569 @@
+{
+  "applianceName": "未命名",
+  "TotalYcCount": 43,
+  "TotalYxCount": 13,
+  "TotalYkCount": 0,
+  "TotalDDCount": 0,
+  "dataItem": [
+    {
+      "linkNo": 9,
+      "devNo": 0,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "1#变压器A相日合格率",
+      "ModelName": "PhVPassD_phsA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 0,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "1#变压器A相日越上限时间",
+      "ModelName": "PTOV_lim_OpTmmsD_phsA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 0,
+      "RegNo": 2,
+      "type": 1,
+      "Name": "1#变压器A相日越下限时间",
+      "ModelName": "PTUV_lim_OpTmmsD_phsA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 0,
+      "RegNo": 3,
+      "type": 1,
+      "Name": "1#变压器B相日合格率",
+      "ModelName": "PhVPassD_phsB",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 0,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "1#变压器B相日越上限时间",
+      "ModelName": "PTOV_lim_OpTmmsD_phsB",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 0,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "1#变压器B相日越下限时间",
+      "ModelName": "PTUV_lim_OpTmmsD_phsB",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 0,
+      "RegNo": 6,
+      "type": 1,
+      "Name": "1#变压器C相日合格率",
+      "ModelName": "PhVPassD_phsC",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 0,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "1#变压器C相日越上限时间",
+      "ModelName": "PTOV_lim_OpTmmsD_phsC",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 0,
+      "RegNo": 8,
+      "type": 1,
+      "Name": "1#变压器C相日越下限时间",
+      "ModelName": "PTUV_lim_OpTmmsD_phsC",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 1,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "集中器光伏1_有功功率",
+      "ModelName": "PhW_all",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 1,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "集中器光伏1_发电量",
+      "ModelName": "SupWh_total",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 2,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "集中器光伏2_有功功率",
+      "ModelName": "PhW_all",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 2,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "集中器光伏2_发电量",
+      "ModelName": "SupWh_total",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 3,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "集中器光伏3_有功功率",
+      "ModelName": "PhW_all",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 3,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "集中器光伏3_发电量",
+      "ModelName": "SupWh_total",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 4,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "集中器光伏4_有功功率",
+      "ModelName": "PhW_all",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 4,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "集中器光伏4_发电量",
+      "ModelName": "SupWh_total",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 5,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "集中器光伏5_有功功率",
+      "ModelName": "PhW_all",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 5,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "集中器光伏5_发电量",
+      "ModelName": "SupWh_total",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 6,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "集中器光伏6_有功功率",
+      "ModelName": "PhW_all",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 6,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "集中器光伏6_发电量",
+      "ModelName": "SupWh_total",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 7,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "集中器光伏7_有功功率",
+      "ModelName": "PhW_all",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 7,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "集中器光伏7_发电量",
+      "ModelName": "SupWh_total",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 8,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "集中器光伏8_有功功率",
+      "ModelName": "PhW_all",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 8,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "集中器光伏8_发电量",
+      "ModelName": "SupWh_total",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 9,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "集中器光伏9_有功功率",
+      "ModelName": "PhW_all",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 9,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "集中器光伏9_发电量",
+      "ModelName": "SupWh_total",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 10,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "集中器光伏10_有功功率",
+      "ModelName": "PhW_all",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 10,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "集中器光伏10_发电量",
+      "ModelName": "SupWh_total",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 11,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "集中器光伏11_有功功率",
+      "ModelName": "PhW_all",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 11,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "集中器光伏11_发电量",
+      "ModelName": "SupWh_total",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 12,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "集中器光伏12_有功功率",
+      "ModelName": "PhW_all",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 12,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "集中器光伏12_发电量",
+      "ModelName": "SupWh_total",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 13,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "集中器光伏13_有功功率",
+      "ModelName": "PhW_all",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 13,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "集中器光伏13_发电量",
+      "ModelName": "SupWh_total",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 14,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "集中器光伏14_有功功率",
+      "ModelName": "PhW_all",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 14,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "集中器光伏14_发电量",
+      "ModelName": "SupWh_total",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 15,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "集中器光伏15_有功功率",
+      "ModelName": "PhW_all",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 15,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "集中器光伏15_发电量",
+      "ModelName": "SupWh_total",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 16,
+      "RegNo": 0,
+      "type": 0,
+      "Name": "断路器停电",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 16,
+      "RegNo": 1,
+      "type": 0,
+      "Name": "断路器分闸",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 16,
+      "RegNo": 2,
+      "type": 0,
+      "Name": "断路器合相电压逆相序",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 16,
+      "RegNo": 3,
+      "type": 0,
+      "Name": "断路器合相电流逆相序",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 16,
+      "RegNo": 4,
+      "type": 0,
+      "Name": "断路器合相电压不平衡",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 16,
+      "RegNo": 5,
+      "type": 0,
+      "Name": "断路器合相电流不平衡",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 16,
+      "RegNo": 6,
+      "type": 0,
+      "Name": "断路器合相辅助电源失电",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 16,
+      "RegNo": 7,
+      "type": 0,
+      "Name": "断路器合相掉电",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 16,
+      "RegNo": 8,
+      "type": 0,
+      "Name": "断路器合相需量超限",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 16,
+      "RegNo": 9,
+      "type": 0,
+      "Name": "断路器合相总功率因数超下限",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 16,
+      "RegNo": 10,
+      "type": 0,
+      "Name": "断路器合相电流严重不平衡",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 16,
+      "RegNo": 11,
+      "type": 0,
+      "Name": "断路器合相开表盖",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 16,
+      "RegNo": 12,
+      "type": 0,
+      "Name": "断路器合相开端钮盖",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 16,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "断路器分闸原因",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 17,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "1#变压器台区负载率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 17,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "2#变压器台区负载率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 9,
+      "devNo": 17,
+      "RegNo": 2,
+      "type": 1,
+      "Name": "3#变压器台区负载率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    }
+  ]
+}

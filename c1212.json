@@ -1,0 +1,620 @@
+{
+	"devIndex": 0,
+	"addr": 1,
+	"yxNum": 13,
+	"ycNum": 51,
+	"ymNum": 2,
+	"yknumsingle": 0,
+	"commAddrLen": 2,
+	"infoAddrLen": 2,
+	"cotLen": 2,
+	"yknumdouble": 0,
+	"yxStartAddr": 1,
+	"ycStartAddr": 16385,
+	"ddStartAddr": 25601,
+	"callAllDataTimeInterval": 5,
+	"syncTimeInterval": 10,
+	"callDDDataTimeInterval": 10,
+	"charoverTime": 20,
+	"yksingleStartAddr": 24577,
+	"ykdoubleStartAddr": 24577,
+	"paraNum": 0,
+	"paraStartAddr": 32800,
+	"paraCmd": 0,
+	"data": [
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 0,
+			"addr": 1,
+			"name": "断路器停电",
+			"DataType": 0,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 1,
+			"addr": 2,
+			"name": "断路器分闸",
+			"DataType": 0,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 2,
+			"addr": 3,
+			"name": "断路器合相电压逆相序",
+			"DataType": 0,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 3,
+			"addr": 4,
+			"name": "断路器合相电流逆相序",
+			"DataType": 0,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 4,
+			"addr": 5,
+			"name": "断路器合相电压不平衡",
+			"DataType": 0,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 5,
+			"addr": 6,
+			"name": "断路器合相电流不平衡",
+			"DataType": 0,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 6,
+			"addr": 7,
+			"name": "断路器合相辅助电源失电",
+			"DataType": 0,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 7,
+			"addr": 8,
+			"name": "断路器合相掉电",
+			"DataType": 0,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 8,
+			"addr": 9,
+			"name": "断路器合相需量超限",
+			"DataType": 0,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 9,
+			"addr": 10,
+			"name": "断路器合相总功率因数超下限",
+			"DataType": 0,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 10,
+			"addr": 11,
+			"name": "断路器合相电流严重不平衡",
+			"DataType": 0,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 11,
+			"addr": 12,
+			"name": "断路器合相开表盖",
+			"DataType": 0,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 12,
+			"addr": 13,
+			"name": "断路器合相开端钮盖",
+			"DataType": 0,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 13,
+			"addr": 16385,
+			"name": "1#变压器A相日合格率",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 14,
+			"addr": 16386,
+			"name": "1#变压器A相日越上限时间",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 15,
+			"addr": 16387,
+			"name": "1#变压器A相日越下限时间",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 16,
+			"addr": 16388,
+			"name": "1#变压器B相日合格率",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 17,
+			"addr": 16389,
+			"name": "1#变压器B相日越上限时间",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 18,
+			"addr": 16390,
+			"name": "1#变压器B相日越下限时间",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 19,
+			"addr": 16391,
+			"name": "1#变压器C相日合格率",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 20,
+			"addr": 16392,
+			"name": "1#变压器C相日越上限时间",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 21,
+			"addr": 16393,
+			"name": "1#变压器C相日越下限时间",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 22,
+			"addr": 16394,
+			"name": "1#集中器光伏1_有功功率",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 23,
+			"addr": 16395,
+			"name": "1#集中器光伏1_发电量",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 24,
+			"addr": 16396,
+			"name": "1#集中器光伏2_有功功率",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 25,
+			"addr": 16397,
+			"name": "1#集中器光伏2_发电量",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 26,
+			"addr": 16398,
+			"name": "1#集中器光伏3_有功功率",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 27,
+			"addr": 16399,
+			"name": "1#集中器光伏3_发电量",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 28,
+			"addr": 16400,
+			"name": "1#集中器光伏4_有功功率",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 29,
+			"addr": 16401,
+			"name": "1#集中器光伏4_发电量",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 30,
+			"addr": 16402,
+			"name": "1#集中器光伏5_有功功率",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 31,
+			"addr": 16403,
+			"name": "1#集中器光伏5_发电量",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 32,
+			"addr": 16404,
+			"name": "1#集中器光伏6_有功功率",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 33,
+			"addr": 16405,
+			"name": "1#集中器光伏6_发电量",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 34,
+			"addr": 16406,
+			"name": "1#集中器光伏7_有功功率",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 35,
+			"addr": 16407,
+			"name": "1#集中器光伏7_发电量",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 36,
+			"addr": 16408,
+			"name": "1#集中器光伏8_有功功率",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 37,
+			"addr": 16409,
+			"name": "1#集中器光伏8_发电量",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 38,
+			"addr": 16410,
+			"name": "1#集中器光伏9_有功功率",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 39,
+			"addr": 16411,
+			"name": "1#集中器光伏9_发电量",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 40,
+			"addr": 16412,
+			"name": "1#集中器光伏10_有功功率",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 41,
+			"addr": 16413,
+			"name": "1#集中器光伏10_发电量",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 42,
+			"addr": 16414,
+			"name": "1#集中器光伏11_有功功率",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 43,
+			"addr": 16415,
+			"name": "1#集中器光伏11_发电量",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 44,
+			"addr": 16416,
+			"name": "1#集中器光伏12_有功功率",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 45,
+			"addr": 16417,
+			"name": "1#集中器光伏12_发电量",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 46,
+			"addr": 16418,
+			"name": "1#集中器光伏13_有功功率",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 47,
+			"addr": 16419,
+			"name": "1#集中器光伏13_发电量",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 48,
+			"addr": 16420,
+			"name": "1#A相电压",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 49,
+			"addr": 16421,
+			"name": "1#B相电压",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 50,
+			"addr": 16422,
+			"name": "1#C相电压",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 51,
+			"addr": 16423,
+			"name": "1#A相电流",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 52,
+			"addr": 16424,
+			"name": "1#B相电流",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 53,
+			"addr": 16425,
+			"name": "1#C相电流",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 54,
+			"addr": 16426,
+			"name": "1#总有功功率",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 55,
+			"addr": 16427,
+			"name": "1#A相有功功率",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 56,
+			"addr": 16428,
+			"name": "1#B相有功功率",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 57,
+			"addr": 16429,
+			"name": "1#C相有功功率",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 58,
+			"addr": 16430,
+			"name": "1#总无功功率",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 59,
+			"addr": 16431,
+			"name": "1#A相无功功率",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 60,
+			"addr": 16432,
+			"name": "1#B相无功功率",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 61,
+			"addr": 16433,
+			"name": "1#C相无功功率",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 62,
+			"addr": 16434,
+			"name": "1#断路器运行状态字",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 63,
+			"addr": 16435,
+			"name": "1#断路器合相故障状态字",
+			"DataType": 1,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 64,
+			"addr": 25601,
+			"name": null,
+			"DataType": 3,
+			"ModeName": null
+		},
+		{
+			"linkNo": 12,
+			"devNo": 0,
+			"regNo": 65,
+			"addr": 25602,
+			"name": null,
+			"DataType": 3,
+			"ModeName": null
+		}
+	]
+}

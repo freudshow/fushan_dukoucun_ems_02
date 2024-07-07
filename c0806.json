@@ -145,6 +145,54 @@
       "Danwei": "kvar",
       "DataRorW": 0,
       "DveModel": "MultiMeter"
+    },
+    {
+      "DataName": null,
+      "Desc": "断路器运行状态字",
+      "UseBlockData": 0,
+      "IsMultiRouteData": false,
+      "BlockModelList": [],
+      "RouteIdx": 0,
+      "RegNo": 14,
+      "Type": 1,
+      "BlockDataCount": 0,
+      "DataModelName": "电压",
+      "DataID": [
+        "04",
+        "00",
+        "05",
+        "01"
+      ],
+      "CheckEnabled": true,
+      "Format": "XXX.X",
+      "DataLen": 6,
+      "Danwei": "次",
+      "DataRorW": 0,
+      "DveModel": "MultiMeter"
+    },
+    {
+      "DataName": null,
+      "Desc": "断路器合相故障状态字",
+      "UseBlockData": 0,
+      "IsMultiRouteData": false,
+      "BlockModelList": [],
+      "RouteIdx": 0,
+      "RegNo": 15,
+      "Type": 1,
+      "BlockDataCount": 0,
+      "DataModelName": "电压",
+      "DataID": [
+        "04",
+        "00",
+        "05",
+        "07"
+      ],
+      "CheckEnabled": false,
+      "Format": "XXX.X",
+      "DataLen": 6,
+      "Danwei": "次",
+      "DataRorW": 0,
+      "DveModel": "MultiMeter"
     }
   ]
 }
