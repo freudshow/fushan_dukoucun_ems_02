@@ -10,7 +10,7 @@
       "devNo": 0,
       "RegNo": 0,
       "type": 1,
-      "Name": "1#变压器A相日合格率",
+      "Name": "2#变压器A相日合格率",
       "ModelName": "PhVPassD_phsA",
       "Ratio": 1.0,
       "BoardDevAddr": 0
@@ -20,7 +20,7 @@
       "devNo": 0,
       "RegNo": 1,
       "type": 1,
-      "Name": "1#变压器A相日越上限时间",
+      "Name": "2#变压器A相日越上限时间",
       "ModelName": "PTOV_lim_OpTmmsD_phsA",
       "Ratio": 1.0,
       "BoardDevAddr": 0
@@ -30,7 +30,7 @@
       "devNo": 0,
       "RegNo": 2,
       "type": 1,
-      "Name": "1#变压器A相日越下限时间",
+      "Name": "2#变压器A相日越下限时间",
       "ModelName": "PTUV_lim_OpTmmsD_phsA",
       "Ratio": 1.0,
       "BoardDevAddr": 0
@@ -40,7 +40,7 @@
       "devNo": 0,
       "RegNo": 3,
       "type": 1,
-      "Name": "1#变压器B相日合格率",
+      "Name": "2#变压器B相日合格率",
       "ModelName": "PhVPassD_phsB",
       "Ratio": 1.0,
       "BoardDevAddr": 0
@@ -50,7 +50,7 @@
       "devNo": 0,
       "RegNo": 4,
       "type": 1,
-      "Name": "1#变压器B相日越上限时间",
+      "Name": "2#变压器B相日越上限时间",
       "ModelName": "PTOV_lim_OpTmmsD_phsB",
       "Ratio": 1.0,
       "BoardDevAddr": 0
@@ -60,7 +60,7 @@
       "devNo": 0,
       "RegNo": 5,
       "type": 1,
-      "Name": "1#变压器B相日越下限时间",
+      "Name": "2#变压器B相日越下限时间",
       "ModelName": "PTUV_lim_OpTmmsD_phsB",
       "Ratio": 1.0,
       "BoardDevAddr": 0
@@ -70,7 +70,7 @@
       "devNo": 0,
       "RegNo": 6,
       "type": 1,
-      "Name": "1#变压器C相日合格率",
+      "Name": "2#变压器C相日合格率",
       "ModelName": "PhVPassD_phsC",
       "Ratio": 1.0,
       "BoardDevAddr": 0
@@ -80,7 +80,7 @@
       "devNo": 0,
       "RegNo": 7,
       "type": 1,
-      "Name": "1#变压器C相日越上限时间",
+      "Name": "2#变压器C相日越上限时间",
       "ModelName": "PTOV_lim_OpTmmsD_phsC",
       "Ratio": 1.0,
       "BoardDevAddr": 0
@@ -90,7 +90,7 @@
       "devNo": 0,
       "RegNo": 8,
       "type": 1,
-      "Name": "1#变压器C相日越下限时间",
+      "Name": "2#变压器C相日越下限时间",
       "ModelName": "PTUV_lim_OpTmmsD_phsC",
       "Ratio": 1.0,
       "BoardDevAddr": 0
