@@ -30,7 +30,7 @@
     "ParaReplyTopic": "/sys/a1mIs9WXKXQ/TTU04_ForC1Test/thing/service/RemoteControl_reply",
     "ServerIp": "139.224.42.2",
     "ServicePort": "1883",
-    "NetCard": "usb0",
+    "NetCard": "FE0",
     "LolocaIp": "192.168.1.101",
     "LocalNetmask": "255.255.255.0",
     "LocalGW": ""
