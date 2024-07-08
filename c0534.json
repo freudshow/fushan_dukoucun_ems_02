@@ -14,47 +14,47 @@
     {
       "devNo": 1,
       "linkNo": 3,
-      "port": "RS-485-I",
-      "addr": "02",
-      "model": "HVDC",
-      "desc": "HVDC-02",
+      "port": "2",
+      "addr": "000000000001",
+      "model": "MultiMeter",
+      "desc": "MultiMeter",
       "datacount": 6,
       "data": [
         {
           "RtdbNo": 147,
           "Desc": "设备[1]-A相网侧电压",
           "DataType": 1,
-          "ModeName": ""
+          "ModeName": "PhV_phsA"
         },
         {
           "RtdbNo": 148,
           "Desc": "设备[1]-B相网侧电压",
           "DataType": 1,
-          "ModeName": ""
+          "ModeName": "PhV_phsB"
         },
         {
           "RtdbNo": 149,
           "Desc": "设备[1]-C相网侧电压",
           "DataType": 1,
-          "ModeName": ""
+          "ModeName": "PhV_phsC"
         },
         {
           "RtdbNo": 150,
           "Desc": "设备[1]-A相网侧电流",
           "DataType": 1,
-          "ModeName": ""
+          "ModeName": "A_phsA"
         },
         {
           "RtdbNo": 151,
           "Desc": "设备[1]-B相网侧电流",
           "DataType": 1,
-          "ModeName": ""
+          "ModeName": "A_phsB"
         },
         {
           "RtdbNo": 152,
           "Desc": "设备[1]-C相网侧电流",
           "DataType": 1,
-          "ModeName": ""
+          "ModeName": "A_phsC"
         }
       ]
     }
