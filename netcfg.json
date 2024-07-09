@@ -142,7 +142,7 @@
         {
           "linkno": 12,
           "mode": 131,
-          "ipaddr": "192.168.1.10",
+          "ipaddr": "10.61.0.42",
           "LocalPort": 0,
           "RemotePort": 2504,
           "SocketChannelNo": 1,
@@ -152,7 +152,7 @@
         {
           "linkno": 13,
           "mode": 131,
-          "ipaddr": "192.168.1.10",
+          "ipaddr": "10.61.0.43",
           "LocalPort": 0,
           "RemotePort": 2604,
           "SocketChannelNo": 2,
