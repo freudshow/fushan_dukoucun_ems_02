@@ -6,7 +6,7 @@
 	"ymNum": 2,
 	"yknumsingle": 0,
 	"commAddrLen": 2,
-	"infoAddrLen": 2,
+	"infoAddrLen": 3,
 	"cotLen": 2,
 	"yknumdouble": 0,
 	"yxStartAddr": 1,

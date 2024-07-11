@@ -3,7 +3,7 @@
     "AllDataReportInterval_s": 300,
     "SndNextFrameInterval_ms": 200,
     "DataChangeReport": "YES",
-    "LogDataChangeReport": "YES",
+    "LogDataChangeReport": "NO",
     "DeviceName": "TTU04_ForC1Test",
     "ProductKey": "a1mIs9WXKXQ",
     "ProductSecret": "20e542c60ef424ddbe017d8f54689efa",
