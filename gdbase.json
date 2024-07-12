@@ -7,7 +7,7 @@
     "topic_set_request_soe": 1,
     "EnableFrozenMode": 0
   },
-  "GetDataBase_devListCount": 16,
+  "GetDataBase_devListCount": 17,
   "GetDataBase_devlist": [
     {
       "devNo": 0,
@@ -470,6 +470,95 @@
           "Desc": "设备[15]-集中器光伏15_发电量",
           "DataType": 1,
           "ModeName": "SupWh_total",
+          "DotNo": 0
+        }
+      ]
+    },
+    {
+      "devNo": 2,
+      "linkNo": 14,
+      "port": "1",
+      "addr": "1",
+      "model": "ADC",
+      "desc": "jiao liu cai ji",
+      "datacount": 11,
+      "appname": "appjc",
+      "data": [
+        {
+          "RtdbNo": 1076,
+          "Desc": "设备[2]-交采A相电流",
+          "DataType": 1,
+          "ModeName": "A_phsA",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 1077,
+          "Desc": "设备[2]-交采B相电流",
+          "DataType": 1,
+          "ModeName": "A_phsB",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 1078,
+          "Desc": "设备[2]-交采C相电流",
+          "DataType": 1,
+          "ModeName": "A_phsC",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 1079,
+          "Desc": "设备[2]-交采总有功功率",
+          "DataType": 1,
+          "ModeName": "TotW",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 1080,
+          "Desc": "设备[2]-交采A相有功功率",
+          "DataType": 1,
+          "ModeName": "PhW_phsA",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 1081,
+          "Desc": "设备[2]-交采B相有功功率",
+          "DataType": 1,
+          "ModeName": "PhW_phsB",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 1082,
+          "Desc": "设备[2]-交采C相有功功率",
+          "DataType": 1,
+          "ModeName": "PhW_phsC",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 1083,
+          "Desc": "设备[2]-交采总无功功率",
+          "DataType": 1,
+          "ModeName": "TotVAr",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 1084,
+          "Desc": "设备[2]-交采A相无功功率",
+          "DataType": 1,
+          "ModeName": "PhVAr_phsA",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 1085,
+          "Desc": "设备[2]-交采B相无功功率",
+          "DataType": 1,
+          "ModeName": "PhVAr_phsB",
+          "DotNo": 0
+        },
+        {
+          "RtdbNo": 1086,
+          "Desc": "设备[2]-交采C相无功功率",
+          "DataType": 1,
+          "ModeName": "PhVAr_phsC",
           "DotNo": 0
         }
       ]
