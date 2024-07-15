@@ -1,0 +1,16 @@
+{
+  "DataItem": [
+    {
+      "no": 0,
+      "SrcDataRtdbNo": 0,
+      "PowerOffSave": 1,
+      "OperationMode": 0,
+      "StartDiffVal": 0.0,
+      "EndDiffVal": 0.0,
+      "ContinueClock": 0,
+      "DestDataRtdbNo": 0,
+      "desc": null
+    }
+  ],
+  "saveTime": 3600
+}
