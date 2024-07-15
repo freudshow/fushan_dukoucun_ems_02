@@ -1,6 +1,6 @@
 {
   "applianceName": "未命名",
-  "TotalYcCount": 6,
+  "TotalYcCount": 17,
   "TotalYxCount": 20,
   "TotalYkCount": 0,
   "TotalDDCount": 0,
@@ -261,6 +261,116 @@
       "RegNo": 19,
       "type": 0,
       "Name": "4#柔直告警信息",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 14,
+      "devNo": 2,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "交采A相电流",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 14,
+      "devNo": 2,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "交采B相电流",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 14,
+      "devNo": 2,
+      "RegNo": 2,
+      "type": 1,
+      "Name": "交采C相电流",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 14,
+      "devNo": 2,
+      "RegNo": 3,
+      "type": 1,
+      "Name": "交采总有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 14,
+      "devNo": 2,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "交采A相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 14,
+      "devNo": 2,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "交采B相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 14,
+      "devNo": 2,
+      "RegNo": 6,
+      "type": 1,
+      "Name": "交采C相有功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 14,
+      "devNo": 2,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "交采总无功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 14,
+      "devNo": 2,
+      "RegNo": 8,
+      "type": 1,
+      "Name": "交采A相无功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 14,
+      "devNo": 2,
+      "RegNo": 9,
+      "type": 1,
+      "Name": "交采B相无功功率",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 14,
+      "devNo": 2,
+      "RegNo": 10,
+      "type": 1,
+      "Name": "交采C相无功功率",
       "ModelName": null,
       "Ratio": 1.0,
       "BoardDevAddr": 0
