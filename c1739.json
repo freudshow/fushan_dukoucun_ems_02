@@ -1,0 +1,49 @@
+{
+  "DataItem": [
+    {
+      "strNum": 4,
+      "PortType": 1,
+      "devNo": 0,
+      "RegNo": 0,
+      "OverTime": 10,
+      "mode": 3,
+      "Reset": 0
+    },
+    {
+      "strNum": 1,
+      "PortType": 1,
+      "devNo": 0,
+      "RegNo": 1,
+      "OverTime": 10,
+      "mode": 3,
+      "Reset": 0
+    },
+    {
+      "strNum": 2,
+      "PortType": 1,
+      "devNo": 0,
+      "RegNo": 2,
+      "OverTime": 10,
+      "mode": 3,
+      "Reset": 0
+    },
+    {
+      "strNum": 42,
+      "PortType": 3,
+      "devNo": 0,
+      "RegNo": 3,
+      "OverTime": 10,
+      "mode": 3,
+      "Reset": 0
+    },
+    {
+      "strNum": 43,
+      "PortType": 3,
+      "devNo": 0,
+      "RegNo": 4,
+      "OverTime": 10,
+      "mode": 3,
+      "Reset": 0
+    }
+  ]
+}
