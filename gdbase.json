@@ -1,8 +1,8 @@
 {
   "GetDataBase_Pad": {
     "PeriodicPollingInterval_ms": 50,
-    "ContinueCheckData": 0,
-    "topic_notify_event": 1,
+    "ContinueCheckData": 1,
+    "topic_notify_event": 0,
     "topic_notify_spont": 0,
     "topic_set_request_soe": 0,
     "EnableFrozenMode": 0
