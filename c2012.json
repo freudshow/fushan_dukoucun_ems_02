@@ -23,7 +23,7 @@
   "paraCmd": 0,
   "data": [
     {
-        "linkNo": 19,
+        "linkNo": 20,
         "devNo": 0,
         "regNo": 0,
         "addr": 1,
@@ -32,7 +32,7 @@
         "ModeName": null
     },
     {
-        "linkNo": 19,
+        "linkNo": 20,
         "devNo": 0,
         "regNo": 1,
         "addr": 2,
@@ -41,7 +41,7 @@
         "ModeName": null
     },
     {
-        "linkNo": 19,
+        "linkNo": 20,
         "devNo": 0,
         "regNo": 2,
         "addr": 16385,
@@ -50,7 +50,7 @@
         "ModeName": null
     },
     {
-        "linkNo": 19,
+        "linkNo": 20,
         "devNo": 0,
         "regNo": 3,
         "addr": 16386,
@@ -59,7 +59,7 @@
         "ModeName": null
     },
     {
-        "linkNo": 19,
+        "linkNo": 20,
         "devNo": 0,
         "regNo": 4,
         "addr": 16387,
@@ -68,7 +68,7 @@
         "ModeName": null
     },
     {
-        "linkNo": 19,
+        "linkNo": 20,
         "devNo": 0,
         "regNo": 5,
         "addr": 16388,
@@ -77,7 +77,7 @@
         "ModeName": null
     },
     {
-        "linkNo": 19,
+        "linkNo": 20,
         "devNo": 0,
         "regNo": 6,
         "addr": 16389,
@@ -86,7 +86,7 @@
         "ModeName": null
     },
     {
-        "linkNo": 19,
+        "linkNo": 20,
         "devNo": 0,
         "regNo": 7,
         "addr": 16390,
@@ -95,7 +95,7 @@
         "ModeName": null
     },
     {
-        "linkNo": 19,
+        "linkNo": 20,
         "devNo": 0,
         "regNo": 8,
         "addr": 25601,
@@ -104,7 +104,7 @@
         "ModeName": null
     },
     {
-        "linkNo": 19,
+        "linkNo": 20,
         "devNo": 0,
         "regNo": 9,
         "addr": 25602,
