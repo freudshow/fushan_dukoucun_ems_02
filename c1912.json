@@ -1,0 +1,188 @@
+{
+  "devIndex": 0,
+  "addr": 1,
+  "yxNum": 2,
+  "ycNum": 14,
+  "ymNum": 2,
+  "yknumsingle": 0,
+  "commAddrLen": 2,
+  "infoAddrLen": 3,
+  "cotLen": 2,
+  "yknumdouble": 0,
+  "yxStartAddr": 1,
+  "ycStartAddr": 16385,
+  "ddStartAddr": 25601,
+  "callAllDataTimeInterval": 5,
+  "syncTimeInterval": 10,
+  "callDDDataTimeInterval": 10,
+  "charoverTime": 20,
+  "yksingleStartAddr": 24577,
+  "ykdoubleStartAddr": 24577,
+  "paraNum": 0,
+  "paraStartAddr": 32800,
+  "paraCmd": 0,
+  "data": [
+    {
+        "linkNo": 19,
+        "devNo": 0,
+        "regNo": 0,
+        "addr": 1,
+        "name": null,
+        "DataType": 0,
+        "ModeName": null
+    },
+    {
+        "linkNo": 19,
+        "devNo": 0,
+        "regNo": 1,
+        "addr": 2,
+        "name": null,
+        "DataType": 0,
+        "ModeName": null
+    },
+    {
+        "linkNo": 19,
+        "devNo": 0,
+        "regNo": 2,
+        "addr": 16385,
+        "name": "1#台区-潘立森A相电压",
+        "DataType": 1,
+        "ModeName": null
+    },
+    {
+        "linkNo": 19,
+        "devNo": 0,
+        "regNo": 3,
+        "addr": 16386,
+        "name": "1#台区-潘立光A相电压",
+        "DataType": 1,
+        "ModeName": null
+    },
+    {
+        "linkNo": 19,
+        "devNo": 0,
+        "regNo": 4,
+        "addr": 16387,
+        "name": "1#台区-王传志A相电压",
+        "DataType": 1,
+        "ModeName": null
+    },
+    {
+        "linkNo": 19,
+        "devNo": 0,
+        "regNo": 5,
+        "addr": 16388,
+        "name": "1#台区-潘启文A相电压",
+        "DataType": 1,
+        "ModeName": null
+    },
+    {
+        "linkNo": 19,
+        "devNo": 0,
+        "regNo": 6,
+        "addr": 16389,
+        "name": "1#台区-潘业忠A相电压",
+        "DataType": 1,
+        "ModeName": null
+    },
+    {
+        "linkNo": 19,
+        "devNo": 0,
+        "regNo": 7,
+        "addr": 16390,
+        "name": "1#台区-潘士泉A相电压",
+        "DataType": 1,
+        "ModeName": null
+    },
+    {
+        "linkNo": 19,
+        "devNo": 0,
+        "regNo": 8,
+        "addr": 16391,
+        "name": "1#台区-潘士云A相电压",
+        "DataType": 1,
+        "ModeName": null
+    },
+    {
+        "linkNo": 19,
+        "devNo": 0,
+        "regNo": 9,
+        "addr": 16392,
+        "name": "1#台区-潘立森A相电压",
+        "DataType": 1,
+        "ModeName": null
+    },
+    {
+        "linkNo": 19,
+        "devNo": 0,
+        "regNo": 10,
+        "addr": 16393,
+        "name": "1#台区-潘士忠A相电压",
+        "DataType": 1,
+        "ModeName": null
+    },
+    {
+        "linkNo": 19,
+        "devNo": 0,
+        "regNo": 11,
+        "addr": 16394,
+        "name": "1#台区-潘立松A相电压",
+        "DataType": 1,
+        "ModeName": null
+    },
+    {
+        "linkNo": 19,
+        "devNo": 0,
+        "regNo": 12,
+        "addr": 16395,
+        "name": "1#台区-潘春荣A相电压",
+        "DataType": 1,
+        "ModeName": null
+    },
+    {
+        "linkNo": 19,
+        "devNo": 0,
+        "regNo": 13,
+        "addr": 16396,
+        "name": "1#台区-潘立松A相电压",
+        "DataType": 1,
+        "ModeName": null
+    },
+    {
+        "linkNo": 19,
+        "devNo": 0,
+        "regNo": 14,
+        "addr": 16397,
+        "name": "1#台区-潘立波A相电压",
+        "DataType": 1,
+        "ModeName": null
+    },
+    {
+        "linkNo": 19,
+        "devNo": 0,
+        "regNo": 15,
+        "addr": 16398,
+        "name": "1#台区-王传志A相电压",
+        "DataType": 1,
+        "ModeName": null
+    },
+    {
+        "linkNo": 19,
+        "devNo": 0,
+        "regNo": 16,
+        "addr": 25601,
+        "name": null,
+        "DataType": 3,
+        "ModeName": null
+    },
+    {
+        "linkNo": 19,
+        "devNo": 0,
+        "regNo": 17,
+        "addr": 25602,
+        "name": null,
+        "DataType": 3,
+        "ModeName": null
+    }
+]
+}
