@@ -46,7 +46,7 @@
       "type": 1,
       "MqttKey": "YC_0",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 2,
@@ -58,7 +58,7 @@
       "type": 1,
       "MqttKey": "YC_1",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 3,
@@ -70,7 +70,7 @@
       "type": 1,
       "MqttKey": "YC_2",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 4,
@@ -82,7 +82,7 @@
       "type": 1,
       "MqttKey": "YC_3",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 5,
@@ -94,7 +94,7 @@
       "type": 1,
       "MqttKey": "YC_4",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 6,
@@ -106,7 +106,7 @@
       "type": 1,
       "MqttKey": "YC_5",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 7,
@@ -118,7 +118,7 @@
       "type": 1,
       "MqttKey": "YC_6",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 8,
@@ -130,7 +130,7 @@
       "type": 1,
       "MqttKey": "YC_7",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 9,
@@ -142,7 +142,7 @@
       "type": 1,
       "MqttKey": "YC_8",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 10,
@@ -154,7 +154,7 @@
       "type": 1,
       "MqttKey": "YC_9",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 11,
@@ -166,7 +166,7 @@
       "type": 1,
       "MqttKey": "YC_10",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 12,
@@ -178,7 +178,7 @@
       "type": 1,
       "MqttKey": "YC_11",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 13,
@@ -190,7 +190,7 @@
       "type": 1,
       "MqttKey": "YC_12",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 14,
@@ -202,7 +202,7 @@
       "type": 1,
       "MqttKey": "YC_13",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 15,
@@ -214,7 +214,7 @@
       "type": 1,
       "MqttKey": "YC_14",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 16,
@@ -226,7 +226,7 @@
       "type": 1,
       "MqttKey": "YC_15",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 17,
@@ -238,7 +238,7 @@
       "type": 1,
       "MqttKey": "YC_16",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 18,
@@ -250,7 +250,7 @@
       "type": 1,
       "MqttKey": "YC_17",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 19,
@@ -262,7 +262,7 @@
       "type": 1,
       "MqttKey": "YC_18",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 20,
@@ -274,7 +274,7 @@
       "type": 1,
       "MqttKey": "YC_19",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 21,
@@ -286,7 +286,7 @@
       "type": 1,
       "MqttKey": "YC_20",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 22,
@@ -298,7 +298,7 @@
       "type": 1,
       "MqttKey": "YC_21",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 23,
@@ -310,7 +310,7 @@
       "type": 1,
       "MqttKey": "YC_22",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 24,
@@ -322,7 +322,7 @@
       "type": 1,
       "MqttKey": "YC_23",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 25,
@@ -334,7 +334,7 @@
       "type": 1,
       "MqttKey": "YC_24",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 26,
@@ -346,7 +346,7 @@
       "type": 1,
       "MqttKey": "YC_25",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 27,
@@ -358,7 +358,7 @@
       "type": 1,
       "MqttKey": "YC_26",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 28,
@@ -370,7 +370,7 @@
       "type": 1,
       "MqttKey": "YC_27",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 29,
@@ -382,7 +382,7 @@
       "type": 1,
       "MqttKey": "YC_28",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 30,
@@ -394,7 +394,7 @@
       "type": 1,
       "MqttKey": "YC_29",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 31,
@@ -406,7 +406,7 @@
       "type": 1,
       "MqttKey": "YC_30",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 32,
@@ -418,7 +418,7 @@
       "type": 1,
       "MqttKey": "YC_31",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 33,
@@ -430,7 +430,7 @@
       "type": 1,
       "MqttKey": "YC_32",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 34,
@@ -442,7 +442,7 @@
       "type": 1,
       "MqttKey": "YC_33",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 35,
@@ -454,7 +454,7 @@
       "type": 1,
       "MqttKey": "YC_34",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 36,
@@ -466,7 +466,7 @@
       "type": 1,
       "MqttKey": "YC_35",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 37,
@@ -478,7 +478,7 @@
       "type": 1,
       "MqttKey": "YC_36",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 38,
@@ -490,7 +490,7 @@
       "type": 1,
       "MqttKey": "YC_37",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 39,
@@ -502,7 +502,7 @@
       "type": 1,
       "MqttKey": "YC_38",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 40,
@@ -514,7 +514,7 @@
       "type": 1,
       "MqttKey": "YC_39",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 41,
@@ -526,7 +526,7 @@
       "type": 1,
       "MqttKey": "YC_40",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 42,
@@ -538,7 +538,7 @@
       "type": 1,
       "MqttKey": "YC_41",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 43,
@@ -550,7 +550,7 @@
       "type": 1,
       "MqttKey": "YC_42",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 44,
@@ -562,7 +562,7 @@
       "type": 1,
       "MqttKey": "YC_43",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 45,
@@ -574,7 +574,7 @@
       "type": 1,
       "MqttKey": "YC_44",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 46,
@@ -586,7 +586,7 @@
       "type": 1,
       "MqttKey": "YC_45",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 47,
@@ -598,7 +598,7 @@
       "type": 1,
       "MqttKey": "YC_46",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 48,
@@ -610,7 +610,7 @@
       "type": 1,
       "MqttKey": "YC_47",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 49,
@@ -622,7 +622,7 @@
       "type": 1,
       "MqttKey": "YC_58",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 50,
@@ -634,7 +634,7 @@
       "type": 1,
       "MqttKey": "YC_59",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 51,
@@ -646,7 +646,7 @@
       "type": 1,
       "MqttKey": "YC_60",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 52,
@@ -658,7 +658,7 @@
       "type": 1,
       "MqttKey": "YC_61",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 53,
@@ -670,7 +670,7 @@
       "type": 1,
       "MqttKey": "YC_62",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 54,
@@ -682,7 +682,7 @@
       "type": 1,
       "MqttKey": "YC_63",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 55,
@@ -694,7 +694,7 @@
       "type": 1,
       "MqttKey": "YC_64",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 56,
@@ -706,7 +706,7 @@
       "type": 1,
       "MqttKey": "YC_65",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 57,
@@ -718,7 +718,7 @@
       "type": 1,
       "MqttKey": "YC_66",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 58,
@@ -730,7 +730,7 @@
       "type": 1,
       "MqttKey": "YC_67",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 59,
@@ -742,7 +742,7 @@
       "type": 1,
       "MqttKey": "YC_68",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 60,
@@ -754,7 +754,7 @@
       "type": 1,
       "MqttKey": "YC_69",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 61,
@@ -766,7 +766,7 @@
       "type": 1,
       "MqttKey": "YC_70",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 62,
@@ -778,7 +778,7 @@
       "type": 1,
       "MqttKey": "YC_71",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 63,
@@ -790,7 +790,7 @@
       "type": 1,
       "MqttKey": "YC_72",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 64,
@@ -802,7 +802,7 @@
       "type": 1,
       "MqttKey": "YC_73",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 65,
@@ -814,7 +814,7 @@
       "type": 1,
       "MqttKey": "YC_74",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 66,
@@ -826,7 +826,7 @@
       "type": 1,
       "MqttKey": "YC_75",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 67,
@@ -838,7 +838,7 @@
       "type": 1,
       "MqttKey": "YC_76",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 68,
@@ -850,7 +850,7 @@
       "type": 1,
       "MqttKey": "YC_77",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 69,
@@ -862,7 +862,7 @@
       "type": 1,
       "MqttKey": "YC_78",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 70,
@@ -874,7 +874,7 @@
       "type": 1,
       "MqttKey": "YC_79",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 71,
@@ -886,7 +886,7 @@
       "type": 1,
       "MqttKey": "YC_80",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 72,
@@ -898,7 +898,7 @@
       "type": 1,
       "MqttKey": "YC_81",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 73,
@@ -910,7 +910,7 @@
       "type": 1,
       "MqttKey": "YC_82",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 74,
@@ -922,7 +922,7 @@
       "type": 1,
       "MqttKey": "YC_83",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 75,
@@ -934,7 +934,7 @@
       "type": 1,
       "MqttKey": "YC_84",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 76,
@@ -946,7 +946,7 @@
       "type": 1,
       "MqttKey": "YC_85",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 77,
@@ -958,7 +958,7 @@
       "type": 1,
       "MqttKey": "YC_86",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 78,
@@ -970,7 +970,7 @@
       "type": 1,
       "MqttKey": "YC_87",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 79,
@@ -982,7 +982,7 @@
       "type": 1,
       "MqttKey": "YC_88",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 80,
@@ -994,7 +994,7 @@
       "type": 1,
       "MqttKey": "YC_89",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 81,
@@ -1006,7 +1006,7 @@
       "type": 1,
       "MqttKey": "YC_90",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 82,
@@ -1018,7 +1018,7 @@
       "type": 1,
       "MqttKey": "YC_91",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 83,
@@ -1030,7 +1030,7 @@
       "type": 1,
       "MqttKey": "YC_116",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 84,
@@ -1042,7 +1042,7 @@
       "type": 1,
       "MqttKey": "YC_117",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 85,
@@ -1054,7 +1054,7 @@
       "type": 1,
       "MqttKey": "YC_118",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 86,
@@ -1066,7 +1066,7 @@
       "type": 1,
       "MqttKey": "YC_119",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 87,
@@ -1078,7 +1078,7 @@
       "type": 1,
       "MqttKey": "YC_120",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 88,
@@ -1090,7 +1090,7 @@
       "type": 1,
       "MqttKey": "YC_121",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 89,
@@ -1102,7 +1102,7 @@
       "type": 1,
       "MqttKey": "YC_122",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 90,
@@ -1114,7 +1114,7 @@
       "type": 1,
       "MqttKey": "YC_123",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 91,
@@ -1126,7 +1126,7 @@
       "type": 1,
       "MqttKey": "YC_124",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 92,
@@ -1138,7 +1138,7 @@
       "type": 1,
       "MqttKey": "YC_125",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 93,
@@ -1150,7 +1150,7 @@
       "type": 1,
       "MqttKey": "YC_126",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 94,
@@ -1162,7 +1162,7 @@
       "type": 1,
       "MqttKey": "YC_127",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 95,
@@ -1174,7 +1174,7 @@
       "type": 1,
       "MqttKey": "YC_128",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 96,
@@ -1186,7 +1186,7 @@
       "type": 1,
       "MqttKey": "YC_129",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 97,
@@ -1198,7 +1198,7 @@
       "type": 1,
       "MqttKey": "YC_130",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 98,
@@ -1210,7 +1210,7 @@
       "type": 1,
       "MqttKey": "YC_131",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 99,
@@ -1222,7 +1222,7 @@
       "type": 1,
       "MqttKey": "YC_132",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 100,
@@ -1234,7 +1234,7 @@
       "type": 1,
       "MqttKey": "YC_133",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 101,
@@ -1246,7 +1246,7 @@
       "type": 1,
       "MqttKey": "YC_134",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 102,
@@ -1258,7 +1258,7 @@
       "type": 1,
       "MqttKey": "YC_135",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 103,
@@ -1270,7 +1270,7 @@
       "type": 1,
       "MqttKey": "YC_136",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 104,
@@ -1282,7 +1282,7 @@
       "type": 1,
       "MqttKey": "YC_137",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 105,
@@ -1294,7 +1294,7 @@
       "type": 1,
       "MqttKey": "YC_138",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 106,
@@ -1306,7 +1306,7 @@
       "type": 1,
       "MqttKey": "YC_139",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 107,
@@ -1318,7 +1318,7 @@
       "type": 1,
       "MqttKey": "YC_140",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 108,
@@ -1330,7 +1330,7 @@
       "type": 1,
       "MqttKey": "YC_141",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 109,
@@ -1342,7 +1342,7 @@
       "type": 1,
       "MqttKey": "YC_142",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 110,
@@ -1354,7 +1354,7 @@
       "type": 1,
       "MqttKey": "YC_143",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 111,
@@ -1366,7 +1366,7 @@
       "type": 1,
       "MqttKey": "YC_144",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 112,
@@ -1378,7 +1378,7 @@
       "type": 1,
       "MqttKey": "YC_145",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 113,
@@ -1390,7 +1390,7 @@
       "type": 1,
       "MqttKey": "YC_146",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 114,
@@ -1402,7 +1402,7 @@
       "type": 1,
       "MqttKey": "YC_147",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 115,
@@ -1414,7 +1414,7 @@
       "type": 1,
       "MqttKey": "YC_148",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 116,
@@ -1426,7 +1426,7 @@
       "type": 1,
       "MqttKey": "YC_149",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 117,
@@ -1438,7 +1438,7 @@
       "type": 1,
       "MqttKey": "YC_150",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 118,
@@ -1450,7 +1450,7 @@
       "type": 1,
       "MqttKey": "YC_151",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 119,
@@ -1462,7 +1462,7 @@
       "type": 1,
       "MqttKey": "YC_152",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 120,
@@ -1474,7 +1474,7 @@
       "type": 1,
       "MqttKey": "YC_153",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 121,
@@ -1486,7 +1486,7 @@
       "type": 1,
       "MqttKey": "YC_154",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 122,
@@ -1498,7 +1498,7 @@
       "type": 1,
       "MqttKey": "YC_155",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 123,
@@ -1510,7 +1510,7 @@
       "type": 1,
       "MqttKey": "YC_156",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 124,
@@ -1522,7 +1522,7 @@
       "type": 1,
       "MqttKey": "YC_157",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 125,
@@ -1534,7 +1534,7 @@
       "type": 1,
       "MqttKey": "YC_158",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 126,
@@ -1546,7 +1546,7 @@
       "type": 1,
       "MqttKey": "YC_159",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 127,
@@ -1558,7 +1558,7 @@
       "type": 1,
       "MqttKey": "YC_160",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 128,
@@ -1570,7 +1570,7 @@
       "type": 1,
       "MqttKey": "YC_161",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 129,
@@ -1582,7 +1582,7 @@
       "type": 1,
       "MqttKey": "YC_162",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 130,
@@ -1594,7 +1594,7 @@
       "type": 1,
       "MqttKey": "YC_163",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 131,
@@ -1606,7 +1606,7 @@
       "type": 1,
       "MqttKey": "YC_164",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 132,
@@ -1618,7 +1618,7 @@
       "type": 1,
       "MqttKey": "YC_165",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 133,
@@ -1630,7 +1630,7 @@
       "type": 1,
       "MqttKey": "YC_166",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 134,
@@ -1642,7 +1642,7 @@
       "type": 1,
       "MqttKey": "YC_167",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 135,
@@ -1654,7 +1654,7 @@
       "type": 1,
       "MqttKey": "YC_189",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 136,
@@ -1666,7 +1666,7 @@
       "type": 1,
       "MqttKey": "YC_190",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 137,
@@ -1678,7 +1678,7 @@
       "type": 1,
       "MqttKey": "YC_191",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 138,
@@ -1690,7 +1690,7 @@
       "type": 1,
       "MqttKey": "YC_192",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 139,
@@ -1702,7 +1702,7 @@
       "type": 1,
       "MqttKey": "YC_193",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 140,
@@ -1714,7 +1714,7 @@
       "type": 1,
       "MqttKey": "YC_194",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 141,
@@ -1726,7 +1726,7 @@
       "type": 1,
       "MqttKey": "YC_195",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 142,
@@ -1738,7 +1738,7 @@
       "type": 1,
       "MqttKey": "YC_196",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 143,
@@ -1750,7 +1750,7 @@
       "type": 1,
       "MqttKey": "YC_197",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 144,
@@ -1762,7 +1762,7 @@
       "type": 1,
       "MqttKey": "YC_198",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 145,
@@ -1774,7 +1774,7 @@
       "type": 1,
       "MqttKey": "YC_204",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 146,
@@ -1786,7 +1786,7 @@
       "type": 1,
       "MqttKey": "YC_205",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 147,
@@ -1798,7 +1798,7 @@
       "type": 1,
       "MqttKey": "YC_206",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 148,
@@ -1810,7 +1810,7 @@
       "type": 1,
       "MqttKey": "YC_207",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 149,
@@ -1822,7 +1822,7 @@
       "type": 1,
       "MqttKey": "YC_208",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 150,
@@ -1834,7 +1834,7 @@
       "type": 1,
       "MqttKey": "YC_209",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 151,
@@ -1846,7 +1846,7 @@
       "type": 1,
       "MqttKey": "YC_210",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 152,
@@ -1858,7 +1858,7 @@
       "type": 1,
       "MqttKey": "YC_211",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 153,
@@ -1870,7 +1870,7 @@
       "type": 1,
       "MqttKey": "YC_212",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 154,
@@ -1882,7 +1882,7 @@
       "type": 1,
       "MqttKey": "YC_213",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 155,
@@ -1894,7 +1894,7 @@
       "type": 1,
       "MqttKey": "YC_174",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 156,
@@ -1906,7 +1906,7 @@
       "type": 1,
       "MqttKey": "YC_175",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 157,
@@ -1918,7 +1918,7 @@
       "type": 1,
       "MqttKey": "YC_176",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 158,
@@ -1930,7 +1930,7 @@
       "type": 1,
       "MqttKey": "YC_177",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 159,
@@ -1942,7 +1942,7 @@
       "type": 1,
       "MqttKey": "YC_178",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 160,
@@ -1954,7 +1954,7 @@
       "type": 1,
       "MqttKey": "YC_179",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 161,
@@ -1966,7 +1966,7 @@
       "type": 1,
       "MqttKey": "YC_180",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 162,
@@ -1978,7 +1978,7 @@
       "type": 1,
       "MqttKey": "YC_181",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 163,
@@ -1990,7 +1990,7 @@
       "type": 1,
       "MqttKey": "YC_182",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 164,
@@ -2002,7 +2002,7 @@
       "type": 1,
       "MqttKey": "YC_183",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 165,
@@ -2014,7 +2014,7 @@
       "type": 1,
       "MqttKey": "YC_219",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 166,
@@ -2026,7 +2026,7 @@
       "type": 1,
       "MqttKey": "YC_220",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 167,
@@ -2038,7 +2038,7 @@
       "type": 1,
       "MqttKey": "YC_221",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 168,
@@ -2050,7 +2050,7 @@
       "type": 1,
       "MqttKey": "YC_222",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 169,
@@ -2062,7 +2062,7 @@
       "type": 1,
       "MqttKey": "YC_223",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 170,
@@ -2074,7 +2074,7 @@
       "type": 1,
       "MqttKey": "YC_224",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 171,
@@ -2086,7 +2086,7 @@
       "type": 1,
       "MqttKey": "YC_225",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 172,
@@ -2098,7 +2098,7 @@
       "type": 1,
       "MqttKey": "YC_226",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 173,
@@ -2110,7 +2110,7 @@
       "type": 1,
       "MqttKey": "YC_227",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 174,
@@ -2122,7 +2122,7 @@
       "type": 1,
       "MqttKey": "YC_228",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 175,
@@ -2134,7 +2134,7 @@
       "type": 1,
       "MqttKey": "YC_234",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 176,
@@ -2146,7 +2146,7 @@
       "type": 1,
       "MqttKey": "YC_235",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 177,
@@ -2158,7 +2158,7 @@
       "type": 1,
       "MqttKey": "YC_236",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 178,
@@ -2170,7 +2170,7 @@
       "type": 1,
       "MqttKey": "YC_240",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 179,
@@ -2182,7 +2182,7 @@
       "type": 1,
       "MqttKey": "YC_241",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 180,
@@ -2194,7 +2194,7 @@
       "type": 1,
       "MqttKey": "YC_242",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 181,
@@ -2206,7 +2206,7 @@
       "type": 1,
       "MqttKey": "YC_246",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 182,
@@ -2218,7 +2218,7 @@
       "type": 1,
       "MqttKey": "YC_247",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 183,
@@ -2230,7 +2230,7 @@
       "type": 1,
       "MqttKey": "YC_248",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 184,
@@ -2242,7 +2242,7 @@
       "type": 1,
       "MqttKey": "YC_252",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 185,
@@ -2254,7 +2254,7 @@
       "type": 1,
       "MqttKey": "YC_253",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 186,
@@ -2266,7 +2266,7 @@
       "type": 1,
       "MqttKey": "YC_254",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 187,
@@ -2278,7 +2278,7 @@
       "type": 1,
       "MqttKey": "YC_255",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 188,
@@ -2290,7 +2290,7 @@
       "type": 1,
       "MqttKey": "YC_256",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 189,
@@ -2302,7 +2302,7 @@
       "type": 1,
       "MqttKey": "YC_257",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 190,
@@ -2314,7 +2314,7 @@
       "type": 1,
       "MqttKey": "YC_258",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 191,
@@ -2326,7 +2326,7 @@
       "type": 1,
       "MqttKey": "YC_259",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 192,
@@ -2338,7 +2338,7 @@
       "type": 1,
       "MqttKey": "YC_260",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 193,
@@ -2350,7 +2350,7 @@
       "type": 1,
       "MqttKey": "YC_261",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 194,
@@ -2362,7 +2362,7 @@
       "type": 1,
       "MqttKey": "YC_262",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 195,
@@ -2374,7 +2374,7 @@
       "type": 1,
       "MqttKey": "YC_263",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 196,
@@ -2386,7 +2386,7 @@
       "type": 1,
       "MqttKey": "YC_264",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 197,
@@ -2398,7 +2398,7 @@
       "type": 1,
       "MqttKey": "YC_265",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 198,
@@ -2410,7 +2410,7 @@
       "type": 1,
       "MqttKey": "YC_266",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 199,
@@ -2422,7 +2422,7 @@
       "type": 1,
       "MqttKey": "YC_267",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 200,
@@ -2434,7 +2434,7 @@
       "type": 1,
       "MqttKey": "YC_268",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 201,
@@ -2446,7 +2446,7 @@
       "type": 1,
       "MqttKey": "YC_269",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 202,
@@ -2458,7 +2458,7 @@
       "type": 1,
       "MqttKey": "YC_270",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 203,
@@ -2470,7 +2470,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_0",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 204,
@@ -2482,7 +2482,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_1",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 205,
@@ -2494,7 +2494,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_2",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 206,
@@ -2506,7 +2506,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_3",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 207,
@@ -2518,7 +2518,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_4",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 208,
@@ -2530,7 +2530,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_5",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 209,
@@ -2542,7 +2542,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_6",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 210,
@@ -2554,7 +2554,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_7",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 211,
@@ -2566,7 +2566,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_8",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 212,
@@ -2578,7 +2578,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_9",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 213,
@@ -2590,7 +2590,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_10",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 214,
@@ -2602,7 +2602,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_11",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 215,
@@ -2614,7 +2614,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_12",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 216,
@@ -2626,7 +2626,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_13",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 217,
@@ -2638,7 +2638,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_14",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 218,
@@ -2650,7 +2650,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_15",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 219,
@@ -2662,7 +2662,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_16",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 220,
@@ -2674,7 +2674,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_17",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 221,
@@ -2686,7 +2686,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_18",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 222,
@@ -2698,7 +2698,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_19",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 223,
@@ -2710,7 +2710,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_20",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 224,
@@ -2722,7 +2722,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_21",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 225,
@@ -2734,7 +2734,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_22",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 226,
@@ -2746,7 +2746,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_23",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 227,
@@ -2758,7 +2758,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_24",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 228,
@@ -2770,7 +2770,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_25",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 229,
@@ -2782,7 +2782,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_26",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 230,
@@ -2794,7 +2794,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_27",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 231,
@@ -2806,7 +2806,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_28",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 232,
@@ -2818,7 +2818,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_29",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 233,
@@ -2830,7 +2830,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_30",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 234,
@@ -2842,7 +2842,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_31",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 235,
@@ -2854,7 +2854,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_32",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 236,
@@ -2866,7 +2866,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_33",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 237,
@@ -2878,7 +2878,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_34",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 238,
@@ -2890,7 +2890,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_35",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 239,
@@ -2902,7 +2902,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_36",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 240,
@@ -2914,7 +2914,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_37",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 241,
@@ -2926,7 +2926,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_40",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 242,
@@ -2938,7 +2938,7 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_41",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
     },
     {
       "No": 243,
@@ -2950,7 +2950,391 @@
       "type": 1,
       "MqttKey": "kuozhan:YC_42",
       "YkValue": 0,
-      "DeadSet": 1.0
+      "DeadSet": 0.1
+    },
+    {
+      "No": 244,
+      "RealDevOrderNum": 1128,
+      "Name": "1#台区-潘立森A相电压",
+      "linkNo": 19,
+      "devNo": 0,
+      "RegNo": 2,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_45",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 245,
+      "RealDevOrderNum": 1129,
+      "Name": "1#台区-潘立光A相电压",
+      "linkNo": 19,
+      "devNo": 0,
+      "RegNo": 3,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_46",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 246,
+      "RealDevOrderNum": 1130,
+      "Name": "1#台区-王传志A相电压",
+      "linkNo": 19,
+      "devNo": 0,
+      "RegNo": 4,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_47",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 247,
+      "RealDevOrderNum": 1131,
+      "Name": "1#台区-潘启文A相电压",
+      "linkNo": 19,
+      "devNo": 0,
+      "RegNo": 5,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_48",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 248,
+      "RealDevOrderNum": 1132,
+      "Name": "1#台区-潘业忠A相电压",
+      "linkNo": 19,
+      "devNo": 0,
+      "RegNo": 6,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_49",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 249,
+      "RealDevOrderNum": 1133,
+      "Name": "1#台区-潘士泉A相电压",
+      "linkNo": 19,
+      "devNo": 0,
+      "RegNo": 7,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_50",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 250,
+      "RealDevOrderNum": 1134,
+      "Name": "1#台区-潘士云A相电压",
+      "linkNo": 19,
+      "devNo": 0,
+      "RegNo": 8,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_51",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 251,
+      "RealDevOrderNum": 1135,
+      "Name": "1#台区-潘立森A相电压",
+      "linkNo": 19,
+      "devNo": 0,
+      "RegNo": 9,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_52",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 252,
+      "RealDevOrderNum": 1136,
+      "Name": "1#台区-潘士忠A相电压",
+      "linkNo": 19,
+      "devNo": 0,
+      "RegNo": 10,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_53",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 253,
+      "RealDevOrderNum": 1137,
+      "Name": "1#台区-潘立松A相电压",
+      "linkNo": 19,
+      "devNo": 0,
+      "RegNo": 11,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_54",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 254,
+      "RealDevOrderNum": 1138,
+      "Name": "1#台区-潘春荣A相电压",
+      "linkNo": 19,
+      "devNo": 0,
+      "RegNo": 12,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_55",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 255,
+      "RealDevOrderNum": 1139,
+      "Name": "1#台区-潘立松A相电压",
+      "linkNo": 19,
+      "devNo": 0,
+      "RegNo": 13,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_56",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 256,
+      "RealDevOrderNum": 1140,
+      "Name": "1#台区-潘立波A相电压",
+      "linkNo": 19,
+      "devNo": 0,
+      "RegNo": 14,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_57",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 257,
+      "RealDevOrderNum": 1141,
+      "Name": "1#台区-王传志A相电压",
+      "linkNo": 19,
+      "devNo": 0,
+      "RegNo": 15,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_58",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 258,
+      "RealDevOrderNum": 1113,
+      "Name": "刘世荣A相电压",
+      "linkNo": 18,
+      "devNo": 0,
+      "RegNo": 0,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_60",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 259,
+      "RealDevOrderNum": 1114,
+      "Name": "潘立顺A相电压",
+      "linkNo": 18,
+      "devNo": 1,
+      "RegNo": 0,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_61",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 260,
+      "RealDevOrderNum": 1116,
+      "Name": "潘立宝A相电压",
+      "linkNo": 18,
+      "devNo": 3,
+      "RegNo": 0,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_62",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 261,
+      "RealDevOrderNum": 1117,
+      "Name": "于琴A相电压",
+      "linkNo": 18,
+      "devNo": 4,
+      "RegNo": 0,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_63",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 262,
+      "RealDevOrderNum": 1118,
+      "Name": "潘清华A相电压",
+      "linkNo": 18,
+      "devNo": 5,
+      "RegNo": 0,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_64",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 263,
+      "RealDevOrderNum": 1119,
+      "Name": "潘立东A相电压",
+      "linkNo": 18,
+      "devNo": 6,
+      "RegNo": 0,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_65",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 264,
+      "RealDevOrderNum": 1120,
+      "Name": "潘清华A相电压",
+      "linkNo": 18,
+      "devNo": 7,
+      "RegNo": 0,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_66",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 265,
+      "RealDevOrderNum": 1121,
+      "Name": "潘士田A相电压",
+      "linkNo": 18,
+      "devNo": 8,
+      "RegNo": 0,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_67",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 266,
+      "RealDevOrderNum": 1122,
+      "Name": "潘立松A相电压",
+      "linkNo": 18,
+      "devNo": 9,
+      "RegNo": 0,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_68",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 267,
+      "RealDevOrderNum": 1123,
+      "Name": "王传清A相电压",
+      "linkNo": 18,
+      "devNo": 10,
+      "RegNo": 0,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_69",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 268,
+      "RealDevOrderNum": 1124,
+      "Name": "潘士祥A相电压",
+      "linkNo": 18,
+      "devNo": 11,
+      "RegNo": 0,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_70",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 269,
+      "RealDevOrderNum": 1125,
+      "Name": "潘士田A相电压",
+      "linkNo": 18,
+      "devNo": 12,
+      "RegNo": 0,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_71",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 270,
+      "RealDevOrderNum": 1144,
+      "Name": "3#台区-王传军A相电压",
+      "linkNo": 20,
+      "devNo": 0,
+      "RegNo": 2,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_75",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 271,
+      "RealDevOrderNum": 1145,
+      "Name": "3#台区-王传军A相电压",
+      "linkNo": 20,
+      "devNo": 0,
+      "RegNo": 3,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_76",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 272,
+      "RealDevOrderNum": 1146,
+      "Name": "3#台区-王传军A相电压",
+      "linkNo": 20,
+      "devNo": 0,
+      "RegNo": 4,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_77",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 273,
+      "RealDevOrderNum": 1147,
+      "Name": "3#台区-潘清华A相电压",
+      "linkNo": 20,
+      "devNo": 0,
+      "RegNo": 5,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_78",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 274,
+      "RealDevOrderNum": 1148,
+      "Name": "3#台区-潘春荣A相电压",
+      "linkNo": 20,
+      "devNo": 0,
+      "RegNo": 6,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_79",
+      "YkValue": 0,
+      "DeadSet": 0.1
+    },
+    {
+      "No": 275,
+      "RealDevOrderNum": 1149,
+      "Name": "3#台区-潘士云A相电压",
+      "linkNo": 20,
+      "devNo": 0,
+      "RegNo": 7,
+      "type": 1,
+      "MqttKey": "kuozhan:YC_80",
+      "YkValue": 0,
+      "DeadSet": 0.1
     }
   ],
   "YXDataItem": [
