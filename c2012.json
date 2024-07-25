@@ -3,7 +3,7 @@
   "addr": 1,
   "yxNum": 2,
   "ycNum": 6,
-  "ymNum": 2,
+  "ymNum": 0,
   "yknumsingle": 0,
   "commAddrLen": 2,
   "infoAddrLen": 3,
@@ -12,7 +12,7 @@
   "yxStartAddr": 1,
   "ycStartAddr": 16385,
   "ddStartAddr": 25601,
-  "callAllDataTimeInterval": 5,
+  "callAllDataTimeInterval": 1,
   "syncTimeInterval": 10,
   "callDDDataTimeInterval": 10,
   "charoverTime": 20,
@@ -92,24 +92,6 @@
         "addr": 16390,
         "name": "3#台区-潘士云A相电压",
         "DataType": 1,
-        "ModeName": null
-    },
-    {
-        "linkNo": 20,
-        "devNo": 0,
-        "regNo": 8,
-        "addr": 25601,
-        "name": null,
-        "DataType": 3,
-        "ModeName": null
-    },
-    {
-        "linkNo": 20,
-        "devNo": 0,
-        "regNo": 9,
-        "addr": 25602,
-        "name": null,
-        "DataType": 3,
         "ModeName": null
     }
 ]

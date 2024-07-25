@@ -3,7 +3,7 @@
   "TotalYcCount": 760,
   "TotalYxCount": 353,
   "TotalYkCount": 21,
-  "TotalDDCount": 20,
+  "TotalDDCount": 16,
   "TotalParameterCount": 0,
   "DataItemCount": 0,
   "realdatabaseclassRoot": [
@@ -27418,54 +27418,6 @@
     {
       "RealDevOrderNum": 1142,
       "ProtolNum": 12,
-      "linkNo": 19,
-      "devNo": 0,
-      "RegNo": 16,
-      "type": 3,
-      "DataModelName": null,
-      "DevAddr": null,
-      "DevModelName": null,
-      "DevDescription": null,
-      "DevPort": null,
-      "Name": null,
-      "Unit": null,
-      "Ratio": 1.0,
-      "DeadSet": 1.0,
-      "RouteIdx": 0,
-      "NewYcOverLimite": 0.0,
-      "YcLowLimite": 1.0,
-      "LessOrMore": 0,
-      "GenerateVirtueYx": 0,
-      "GenerateModbusSlaveAddr": 12355,
-      "TypeProperty": 0
-    },
-    {
-      "RealDevOrderNum": 1143,
-      "ProtolNum": 12,
-      "linkNo": 19,
-      "devNo": 0,
-      "RegNo": 17,
-      "type": 3,
-      "DataModelName": null,
-      "DevAddr": null,
-      "DevModelName": null,
-      "DevDescription": null,
-      "DevPort": null,
-      "Name": null,
-      "Unit": null,
-      "Ratio": 1.0,
-      "DeadSet": 1.0,
-      "RouteIdx": 0,
-      "NewYcOverLimite": 0.0,
-      "YcLowLimite": 1.0,
-      "LessOrMore": 0,
-      "GenerateVirtueYx": 0,
-      "GenerateModbusSlaveAddr": 12359,
-      "TypeProperty": 0
-    },
-    {
-      "RealDevOrderNum": 1144,
-      "ProtolNum": 12,
       "linkNo": 20,
       "devNo": 0,
       "RegNo": 0,
@@ -27488,7 +27440,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1145,
+      "RealDevOrderNum": 1143,
       "ProtolNum": 12,
       "linkNo": 20,
       "devNo": 0,
@@ -27512,7 +27464,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1146,
+      "RealDevOrderNum": 1144,
       "ProtolNum": 12,
       "linkNo": 20,
       "devNo": 0,
@@ -27536,7 +27488,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1147,
+      "RealDevOrderNum": 1145,
       "ProtolNum": 12,
       "linkNo": 20,
       "devNo": 0,
@@ -27560,7 +27512,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1148,
+      "RealDevOrderNum": 1146,
       "ProtolNum": 12,
       "linkNo": 20,
       "devNo": 0,
@@ -27584,7 +27536,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1149,
+      "RealDevOrderNum": 1147,
       "ProtolNum": 12,
       "linkNo": 20,
       "devNo": 0,
@@ -27608,7 +27560,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1150,
+      "RealDevOrderNum": 1148,
       "ProtolNum": 12,
       "linkNo": 20,
       "devNo": 0,
@@ -27632,7 +27584,7 @@
       "TypeProperty": 0
     },
     {
-      "RealDevOrderNum": 1151,
+      "RealDevOrderNum": 1149,
       "ProtolNum": 12,
       "linkNo": 20,
       "devNo": 0,
@@ -27653,54 +27605,6 @@
       "LessOrMore": 0,
       "GenerateVirtueYx": 0,
       "GenerateModbusSlaveAddr": 16413,
-      "TypeProperty": 0
-    },
-    {
-      "RealDevOrderNum": 1152,
-      "ProtolNum": 12,
-      "linkNo": 20,
-      "devNo": 0,
-      "RegNo": 8,
-      "type": 3,
-      "DataModelName": null,
-      "DevAddr": null,
-      "DevModelName": null,
-      "DevDescription": null,
-      "DevPort": null,
-      "Name": null,
-      "Unit": null,
-      "Ratio": 1.0,
-      "DeadSet": 1.0,
-      "RouteIdx": 0,
-      "NewYcOverLimite": 0.0,
-      "YcLowLimite": 1.0,
-      "LessOrMore": 0,
-      "GenerateVirtueYx": 0,
-      "GenerateModbusSlaveAddr": 16419,
-      "TypeProperty": 0
-    },
-    {
-      "RealDevOrderNum": 1153,
-      "ProtolNum": 12,
-      "linkNo": 20,
-      "devNo": 0,
-      "RegNo": 9,
-      "type": 3,
-      "DataModelName": null,
-      "DevAddr": null,
-      "DevModelName": null,
-      "DevDescription": null,
-      "DevPort": null,
-      "Name": null,
-      "Unit": null,
-      "Ratio": 1.0,
-      "DeadSet": 1.0,
-      "RouteIdx": 0,
-      "NewYcOverLimite": 0.0,
-      "YcLowLimite": 1.0,
-      "LessOrMore": 0,
-      "GenerateVirtueYx": 0,
-      "GenerateModbusSlaveAddr": 16423,
       "TypeProperty": 0
     }
   ]
