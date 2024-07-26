@@ -1,7 +1,7 @@
 {
   "applianceName": "未命名",
-  "TotalYcCount": 43,
-  "TotalYxCount": 13,
+  "TotalYcCount": 44,
+  "TotalYxCount": 12,
   "TotalYkCount": 0,
   "TotalDDCount": 0,
   "dataItem": [
@@ -409,8 +409,8 @@
       "linkNo": 9,
       "devNo": 16,
       "RegNo": 1,
-      "type": 0,
-      "Name": "断路器分闸",
+      "type": 1,
+      "Name": "断路器分合闸状态",
       "ModelName": null,
       "Ratio": 1.0,
       "BoardDevAddr": 0

@@ -4,8 +4,49 @@
     {
       "DevIndex": 0,
       "PollingInterval": 4,
-      "ArrayLogicalDes": null,
-      "ArrayLogical": 0,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 902,
+          "Desc": "设备[16]-断路器分合闸状态",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": null
+        },
+        {
+          "RtdbNo": 1087,
+          "Desc": "设备[3]-2台区断路器合闸",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "0"
+        },
+        {
+          "RtdbNo": 1088,
+          "Desc": "设备[3]-2台区断路器重合闸",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "2"
+        },
+        {
+          "RtdbNo": 1089,
+          "Desc": "设备[3]-2台区断路器闭锁跳闸",
+          "Type": 0,
+          "No": 3,
+          "InputOutPut": 1,
+          "SelectData": "3"
+        }
+      ]
+    },
+    {
+      "DevIndex": 1,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
       "CallbackIndex": 0,
       "data": [
         {
@@ -14,15 +55,87 @@
           "Type": 1,
           "No": 0,
           "InputOutPut": 0,
-          "SelectData": "11"
+          "SelectData": null
         },
         {
-          "RtdbNo": 901,
-          "Desc": "设备[16]-断路器停电",
+          "RtdbNo": 1090,
+          "Desc": "设备[3]-2台区断路器正常运行",
           "Type": 0,
           "No": 1,
           "InputOutPut": 1,
-          "SelectData": "1"
+          "SelectData": "0"
+        },
+        {
+          "RtdbNo": 1093,
+          "Desc": "设备[3]-2台区断路器过载",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "5"
+        },
+        {
+          "RtdbNo": 1094,
+          "Desc": "设备[3]-2台区断路器短路",
+          "Type": 0,
+          "No": 3,
+          "InputOutPut": 1,
+          "SelectData": "6"
+        },
+        {
+          "RtdbNo": 1095,
+          "Desc": "设备[3]-2台区断路器缺相",
+          "Type": 0,
+          "No": 4,
+          "InputOutPut": 1,
+          "SelectData": "7"
+        },
+        {
+          "RtdbNo": 1098,
+          "Desc": "设备[3]-2台区断路器接地",
+          "Type": 0,
+          "No": 5,
+          "InputOutPut": 1,
+          "SelectData": "10"
+        },
+        {
+          "RtdbNo": 1099,
+          "Desc": "设备[3]-2台区断路器停电",
+          "Type": 0,
+          "No": 6,
+          "InputOutPut": 1,
+          "SelectData": "11"
+        },
+        {
+          "RtdbNo": 1101,
+          "Desc": "设备[3]-2台区断路器远程",
+          "Type": 0,
+          "No": 7,
+          "InputOutPut": 1,
+          "SelectData": "13"
+        },
+        {
+          "RtdbNo": 1103,
+          "Desc": "设备[3]-2台区断路器闭锁",
+          "Type": 0,
+          "No": 8,
+          "InputOutPut": 1,
+          "SelectData": "15"
+        },
+        {
+          "RtdbNo": 1104,
+          "Desc": "设备[3]-2台区断路器手动",
+          "Type": 0,
+          "No": 9,
+          "InputOutPut": 1,
+          "SelectData": "18"
+        },
+        {
+          "RtdbNo": 1106,
+          "Desc": "设备[3]-2台区断路器合闸失败",
+          "Type": 0,
+          "No": 10,
+          "InputOutPut": 1,
+          "SelectData": "17"
         }
       ]
     }
