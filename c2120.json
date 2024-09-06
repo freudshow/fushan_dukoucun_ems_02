@@ -1,0 +1,99 @@
+{
+  "applianceName": "未命名",
+  "TotalYcCount": 0,
+  "TotalYxCount": 9,
+  "TotalYkCount": 0,
+  "TotalDDCount": 0,
+  "dataItem": [
+    {
+      "linkNo": 21,
+      "devNo": 0,
+      "RegNo": 0,
+      "type": 0,
+      "Name": "台区1停电标志",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 21,
+      "devNo": 0,
+      "RegNo": 1,
+      "type": 0,
+      "Name": "台区2停电标志",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 21,
+      "devNo": 0,
+      "RegNo": 2,
+      "type": 0,
+      "Name": "台区3停电标志",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 21,
+      "devNo": 0,
+      "RegNo": 3,
+      "type": 0,
+      "Name": "台区1停电调整标志",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 21,
+      "devNo": 0,
+      "RegNo": 4,
+      "type": 0,
+      "Name": "台区2停电调整标志",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 21,
+      "devNo": 0,
+      "RegNo": 5,
+      "type": 0,
+      "Name": "台区3停电调整标志",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 21,
+      "devNo": 0,
+      "RegNo": 6,
+      "type": 0,
+      "Name": "台区1恢复调整标志",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 21,
+      "devNo": 0,
+      "RegNo": 7,
+      "type": 0,
+      "Name": "台区2恢复调整标志",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 21,
+      "devNo": 0,
+      "RegNo": 8,
+      "type": 0,
+      "Name": "台区3恢复调整标志",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    }
+  ]
+}

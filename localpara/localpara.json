@@ -1,5 +1,5 @@
 {
-  "ModbusAddr": 1,
+  "ModbusAddr": 101,
   "Dlt645Addr": "552233441166",
   "Devname": "e9361app",
   "BlueName": "E9361-D",
